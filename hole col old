@@ -1,0 +1,3037 @@
+Card Name,Mana Cost,Mana Value,libr,Rarity
+Alabaster Potion,{X}{W}{W},2,1,C
+Ali Baba,{R},1,1,U
+Atog,{1}{R},2,1,C
+Atog,{1}{R},2,1,C
+Atog,{1}{R},2,1,C
+Blue Elemental Blast,{U},1,1,C
+Cave Sense,{1}{R},2,1,C
+Circle of Protection: Red,{1}{W},2,1,C
+Control Magic,{2}{U}{U},4,1,U
+Cursed Rack,{4},4,1,U
+Dark Privilege,{1}{B},2,1,R
+Dark Ritual,{B},1,1,C
+Drain Life,{X}{1}{B},2,1,C
+Dwarven Warriors,{2}{R},3,1,C
+Dwarven Warriors,{2}{R},3,1,C
+Earth Elemental,{3}{R}{R},5,1,U
+Earthbind,{R},1,1,C
+Fireball,{X}{R},1,1,C
+Forest,,0,1,C
+Forest,,0,1,C
+Gaea's Touch,{G}{G},2,1,C
+Goblin Digging Team,{R},1,1,C
+Hypnotic Specter,{1}{B}{B},3,1,U
+Hypnotic Specter,{1}{B}{B},3,1,U
+Immolation,{R},1,1,C
+Island,,0,1,R
+Island,,0,1,C
+Island,,0,1,C
+Jandor's Saddlebags,{2},2,1,R
+Lance,{W},1,1,U
+Lightning Bolt,{R},1,1,C
+Lure,{1}{G}{G},3,1,U
+Mishra's Factory,,0,1,U
+Mons's Goblin Raiders,{R},1,1,C
+Mountain,,0,1,C
+Nantuko Husk,{2}{B},3,1,U
+Nettling Imp,{2}{B},3,1,U
+Ornithopter,{0},0,1,U
+Pestilence,{2}{B}{B},4,1,C
+Phantom Monster,{3}{U},4,1,U
+Plague Rats,{2}{B},3,1,C
+Power Surge,{R}{R},2,1,R
+Pyrotechnics,{4}{R},5,1,U
+Pyrotechnics,{4}{R},5,1,U
+Red Elemental Blast,{R},1,1,C
+Red Elemental Blast,{R},1,1,C
+Regrowth,{1}{G},2,1,U
+Royal Assassin,{1}{B}{B},3,1,R
+Shanodin Dryads,{G},1,1,C
+Shield Wall,{1}{W},2,1,C
+Shrieking Drake,{U},1,1,C
+Shrieking Drake,{U},1,1,C
+Shrieking Drake,{U},1,1,C
+Shrieking Drake,{U},1,1,C
+Swamp,,0,1,C
+The Rack,{1},1,1,U
+Tunnel,{R},1,1,U
+Urza's Mine,,0,1,U
+Urza's Power Plant,,0,1,U
+Urza's Power Plant,,0,1,U
+Wall of Spears,{3},3,1,C
+Zombie Master,{1}{B}{B},3,1,R
+Aladdin's Lamp,{10},10,1,R
+Castle,{3}{W},4,1,U
+Contract from Below,{B},1,1,R
+Counterspell,{U}{U},2,1,U
+Demonic Attorney,{1}{B}{B},3,1,R
+Demonic Attorney,{1}{B}{B},3,1,R
+Disrupting Scepter,{3},3,1,R
+Mesa Pegasus,{1}{W},2,1,C
+Mijae Djinn,{R}{R}{R},3,1,R
+Pearled Unicorn,{2}{W},3,1,C
+Rocket Launcher,{4},4,1,R
+Spell Blast,{X}{U},1,1,C
+Unholy Strength,{B},1,1,C
+Wall of Brambles,{2}{G},3,1,U
+Wanderlust,{2}{G},3,1,U
+Barbarian Lunatic,{2}{R},3,1,C
+Dauntless Cathar,{2}{W},3,1,C
+Dauntless Cathar,{2}{W},3,1,C
+Faith's Fetters,{3}{W},4,1,C
+Strength of Night,{2}{G},3,1,C
+Strength of Night,{2}{G},3,1,C
+Battering Craghorn,{2}{R}{R},4,1,C
+Bonethorn Valesk,{4}{R},5,1,C
+Break Asunder,{2}{G}{G},4,1,C
+Break Asunder,{2}{G}{G},4,1,C
+Daru Healer,{2}{W},3,1,C
+Dega Disciple,{W},1,1,C
+Dwarven Landslide,{3}{R},4,1,C
+Mystic Zealot,{3}{W},4,1,C
+Renewed Faith,{2}{W},3,1,C
+Skirk Outrider,{3}{R},4,1,C
+Totally Lost,{4}{U},5,1,C
+Breezekeeper,{3}{U},4,1,C
+Cloak of Confusion,{1}{B},2,1,C
+Crusader of Odric,{2}{W},3,1,C
+Gather the Townsfolk,{1}{W},2,1,C
+Glade Gnarr,{5}{G},6,1,C
+Hallowed Healer,{2}{W},3,1,C
+Helionaut,{2}{W},3,1,C
+Lull,{1}{G},2,1,C
+Minotaur Illusionist,{3}{U}{R},5,1,U
+Necrosavant,{3}{B}{B}{B},6,1,U
+Rishadan Airship,{2}{U},3,1,C
+Self-Assembler,{5},5,1,U
+Self-Assembler,{5},5,1,U
+Sigil of Valor,{2},2,1,U
+Solar Blast,{3}{R},4,1,C
+Strength of Night,{2}{G},3,1,C
+Strength of Night,{2}{G},3,1,C
+Town Gossipmonger // Incited Rabble,{W},1,1,U
+Treespring Lorian,{5}{G},6,1,C
+Village Messenger // Moonrise Intruder,{R},1,1,C
+Animist's Might,{2}{G},3,1,U
+Aven Liberator,{2}{W}{W},4,1,C
+Aven Liberator,{2}{W}{W},4,1,C
+Borrowed Hostility,{R},1,1,C
+Butcher's Cleaver,{3},3,1,U
+Centaur Veteran,{5}{G},6,1,C
+Cloudfin Raptor,{U},1,1,C
+Crown of Suspicion,{1}{B},2,1,C
+Darkling Stalker,{3}{B},4,1,C
+Defensive Maneuvers,{3}{W},4,1,C
+Gravel Slinger,{3}{W},4,1,C
+Hamlet Captain,{1}{G},2,1,U
+Iron Will,{W},1,1,C
+Power Armor,{4},4,1,U
+Rock Jockey,{2}{R},3,1,C
+Rock Jockey,{2}{R},3,1,C
+Silent Departure,{U},1,1,C
+Silent Departure,{U},1,1,C
+Silent Departure,{U},1,1,C
+Sky Hussar,{3}{W}{U},5,1,U
+Soul Separator,{3},3,1,U
+Soulcipher Board // Cipherbound Spirit,{1}{U},2,1,U
+Trained Armodon,{1}{G}{G},3,1,C
+Wretched Gryff,{7},7,1,C
+Zealous Inquisitor,{2}{W},3,1,C
+Zealous Inquisitor,{2}{W},3,1,C
+Agent of Shauku,{1}{B},2,1,C
+Air Bladder,{U},1,1,C
+Alms,{W},1,1,C
+Ascending Aven,{2}{U}{U},4,1,C
+Aven Flock,{4}{W},5,1,C
+Aven Flock,{4}{W},5,1,C
+Aysen Bureaucrats,{1}{W},2,1,C
+Aysen Bureaucrats,{1}{W},2,1,C
+Break Open,{1}{R},2,1,C
+Cagemail,{1}{W},2,1,C
+Cagemail,{1}{W},2,1,C
+Call of the Conclave,{G}{W},2,1,C
+Cinder Wall,{R},1,1,C
+Cloud Elemental,{2}{U},3,1,C
+Clutch of Undeath,{3}{B}{B},5,1,C
+Coral Merfolk,{1}{U},2,1,C
+Deadwood Treefolk,{5}{G},6,1,U
+Elsewhere Flask,{2},2,1,U
+Ember Shot,{6}{R},7,1,C
+Fever Charm,{R},1,1,C
+Gisa's Bidding,{2}{B}{B},4,1,C
+Grassland Crusader,{5}{W},6,1,C
+Grassland Crusader,{5}{W},6,1,C
+Guided Strike,{1}{W},2,1,C
+Immobilizing Ink,{1}{U},2,1,C
+It of the Horrid Swarm,{8},8,1,C
+It of the Horrid Swarm,{8},8,1,C
+Lightning Mauler,{1}{R},2,1,U
+Mercurial Kite,{3}{U},4,1,C
+Mystic Visionary,{1}{W},2,1,C
+Phantom Whelp,{1}{U},2,1,C
+Phyrexian Driver,{2}{B},3,1,C
+Shoreline Raider,{2}{U},3,1,C
+Torture,{B},1,1,C
+Tranquil Path,{4}{G},5,1,C
+Veiled Serpent,{2}{U},3,1,C
+Aberrant Researcher // Perfected Form,{3}{U},4,1,U
+Alchemist's Greeting,{4}{R},5,1,C
+Alchemist's Greeting,{4}{R},5,1,C
+Angelic Curator,{1}{W},2,1,U
+Angelic Purge,{2}{W},3,1,C
+Aven Cloudchaser,{3}{W},4,1,C
+Aven Farseer,{1}{W},2,1,C
+Aven Farseer,{1}{W},2,1,C
+Aven Farseer,{1}{W},2,1,C
+Backslide,{1}{U},2,1,C
+Belbe's Percher,{2}{B},3,1,C
+Capashen Knight,{1}{W},2,1,C
+Capashen Knight,{1}{W},2,1,C
+Cephalid Aristocrat,{4}{U},5,1,C
+Charging Slateback,{4}{R},5,1,C
+Goblin Chariot,{2}{R},3,1,C
+Gustcloak Runner,{W},1,1,C
+Gustcloak Runner,{W},1,1,C
+Gustcloak Runner,{W},1,1,C
+Heavy Ballista,{3}{W},4,1,C
+Longhorn Firebeast,{2}{R},3,1,C
+Longhorn Firebeast,{2}{R},3,1,C
+Mad Dog,{1}{R},2,1,C
+Mist Raven,{2}{U}{U},4,1,U
+Moldervine Cloak,{2}{G},3,1,U
+Noble Templar,{5}{W},6,1,C
+Pilgrim of Virtue,{2}{W},3,1,C
+Remedy,{1}{W},2,1,C
+Scorned Villager // Moonscarred Werewolf,{1}{G},2,1,C
+Serpentine Kavu,{4}{G},5,1,C
+Seton's Desire,{2}{G},3,1,C
+"Skoa, Embermage",{4}{R}{R},6,1,C
+Spike Worker,{2}{G},3,1,C
+Stromkirk Occultist,{2}{R},3,1,U
+Think Twice,{1}{U},2,1,C
+Thrive,{X}{G},1,1,C
+Thrive,{X}{G},1,1,C
+Torrent of Fire,{3}{R}{R},5,1,C
+Torrent of Fire,{3}{R}{R},5,1,C
+Wall of Heat,{2}{R},3,1,C
+Abundant Maw,{8},8,1,C
+Anarchist,{4}{R},5,1,C
+Anarchist,{4}{R},5,1,C
+Azimaet Drake,{2}{U},3,1,C
+Burning Vengeance,{2}{R},3,1,U
+Canyon Wildcat,{1}{R},2,1,C
+Cartel Aristocrat,{W}{B},2,1,U
+Coastal Drake,{2}{U},3,1,C
+Combat Medic,{2}{W},3,1,C
+Daru Sanctifier,{3}{W},4,1,C
+Dripping Dead,{4}{B}{B},6,1,C
+Dromosaur,{2}{R},3,1,C
+False Demise,{2}{U},3,1,C
+Fault Riders,{2}{R},3,1,C
+Flame Burst,{1}{R},2,1,C
+Flowstone Crusher,{3}{R}{R},5,1,C
+Flowstone Crusher,{3}{R}{R},5,1,C
+Gather the Townsfolk,{1}{W},2,1,C
+Gorilla Chieftain,{2}{G}{G},4,1,C
+Gorilla Chieftain,{2}{G}{G},4,1,C
+Illuminated Wings,{1}{U},2,1,C
+Jilt,{1}{U},2,1,C
+Lavamancer's Skill,{1}{R},2,1,C
+Looming Shade,{2}{B},3,1,C
+Lumberknot,{2}{G}{G},4,1,U
+Malicious Advice,{X}{U}{B},2,1,C
+Malicious Advice,{X}{U}{B},2,1,C
+Mesa Falcon,{1}{W},2,1,C
+Millstone,{2},2,1,U
+Millstone,{2},2,1,U
+Misery Charm,{B},1,1,C
+Misery Charm,{B},1,1,C
+Mistform Seaswift,{3}{U},4,1,C
+Mistform Stalker,{1}{U},2,1,U
+Mistform Wall,{2}{U},3,1,C
+Necra Disciple,{B},1,1,C
+Netter en-Dal,{W},1,1,C
+Nosy Goblin,{2}{R},3,1,C
+Nosy Goblin,{2}{R},3,1,C
+Opal Champion,{2}{W},3,1,C
+Ovinize,{1}{U},2,1,C
+Pack Guardian,{2}{G}{G},4,1,U
+Parapet,{1}{W},2,1,C
+Piety Charm,{W},1,1,C
+Plague Beetle,{B},1,1,C
+Pygmy Pyrosaur,{1}{R},2,1,C
+Quicksilver Dagger,{1}{U}{R},3,1,U
+Reflexes,{R},1,1,C
+Remove Soul,{1}{U},2,1,C
+Retromancer,{2}{R}{R},4,1,C
+Sage Aven,{3}{U},4,1,C
+Samite Healer,{1}{W},2,1,C
+Samite Healer,{1}{W},2,1,C
+Sea Serpent,{5}{U},6,1,C
+Seize the Storm,{4}{R},5,1,C
+Seize the Storm,{4}{R},5,1,C
+Swat,{1}{B}{B},3,1,C
+Tahngarth's Glare,{R},1,1,C
+Thirst for Knowledge,{2}{U},3,1,U
+Transmutation,{1}{B},2,1,C
+Transmutation,{1}{B},2,1,C
+Viashino Sandscout,{1}{R},2,1,C
+Vigilant Drake,{4}{U},5,1,C
+War Elephant,{3}{W},4,1,C
+War Elephant,{3}{W},4,1,C
+Wild-Field Scarecrow,{3},3,1,C
+Accelerated Mutation,{3}{G}{G},5,1,C
+Accelerated Mutation,{3}{G}{G},5,1,C
+Accelerated Mutation,{3}{G}{G},5,1,C
+Active Volcano,{R},1,1,C
+Aliban's Tower,{1}{R},2,1,C
+Aliban's Tower,{1}{R},2,1,C
+Apathy,{U},1,1,C
+Apathy,{U},1,1,C
+Apathy,{U},1,1,C
+Apathy,{U},1,1,C
+Arcane Teachings,{2}{R},3,1,C
+Banshee,{2}{B}{B},4,1,U
+Battering Ram,{2},2,1,C
+Bog Glider,{2}{B},3,1,C
+Bog Glider,{2}{B},3,1,C
+Bog Glider,{2}{B},3,1,C
+Bog Glider,{2}{B},3,1,C
+Burnished Hart,{3},3,1,U
+Cat Burglar,{3}{B},4,1,C
+Cat Burglar,{3}{B},4,1,C
+Cat Burglar,{3}{B},4,1,C
+Chrome Courier,{1}{W}{U},3,1,C
+Crafty Pathmage,{2}{U},3,1,C
+Crossbow Infantry,{1}{W},2,1,C
+Crown of Ascension,{1}{U},2,1,C
+Crown of Fury,{1}{R},2,1,C
+D'Avenant Archer,{2}{W},3,1,C
+Death's-Head Buzzard,{1}{B}{B},3,1,C
+Divine Offering,{1}{W},2,1,C
+Essence Fracture,{3}{U}{U},5,1,U
+Expendable Troops,{1}{W},2,1,C
+Fa'adiyah Seer,{1}{G},2,1,C
+Fevered Strength,{2}{B},3,1,C
+Flash Flood,{U},1,1,C
+Foothill Guide,{W},1,1,C
+Geistlight Snare,{2}{U},3,1,U
+Giant Caterpillar,{3}{G},4,1,C
+Giant Slug,{1}{B},2,1,C
+Goblin Sky Raider,{2}{R},3,1,C
+Goblin Sky Raider,{2}{R},3,1,C
+Gustcloak Skirmisher,{3}{W},4,1,U
+Hero's Resolve,{1}{W},2,1,C
+Hero's Resolve,{1}{W},2,1,C
+Hulking Ogre,{2}{R},3,1,C
+Invigorating Boon,{1}{G},2,1,U
+Invigorating Boon,{1}{G},2,1,U
+Last Caress,{2}{B},3,1,C
+Lull,{1}{G},2,1,C
+Lull,{1}{G},2,1,C
+Man-o'-War,{2}{U},3,1,C
+Mogg Toady,{1}{R},2,1,C
+Mournful Zombie,{2}{B},3,1,C
+Necrite,{1}{B}{B},3,1,C
+Noble Templar,{5}{W},6,1,C
+Parallax Dementia,{1}{B},2,1,C
+Phantasmal Terrain,{U}{U},2,1,C
+Pyric Salamander,{1}{R},2,1,C
+Refresh,{2}{G},3,1,C
+Runesword,{6},6,1,C
+Scornful Egotist,{7}{U},8,1,C
+Silk Net,{G},1,1,C
+Skirk Commando,{1}{R}{R},3,1,C
+Specter's Wail,{1}{B},2,1,C
+Spectral Shepherd,{2}{W},3,1,U
+Spineless Thug,{1}{B},2,1,C
+Stronghold Discipline,{2}{B}{B},4,1,C
+Swat,{1}{B}{B},3,1,C
+Thundercloud Elemental,{5}{U}{U},7,1,U
+"Tiana, Ship's Caretaker",{3}{R}{W},5,1,U
+Undead Gladiator,{1}{B}{B},3,1,U
+Undead Gladiator,{1}{B}{B},3,1,U
+Viashino Outrider,{2}{R},3,1,C
+Viscerid Armor,{1}{U},2,1,C
+Vodalian Soldiers,{1}{U},2,1,C
+Warthog,{1}{G}{G},3,1,C
+Wire Surgeons,{4}{B}{B},6,1,R
+Withering Hex,{B},1,1,U
+Woodland Druid,{G},1,1,C
+Worldly Counsel,{1}{U},2,1,C
+Xira Arien,{B}{R}{G},3,1,R
+Xira Arien,{B}{R}{G},3,1,R
+Anaba Shaman,{3}{R},4,1,C
+Angelic Curator,{1}{W},2,1,C
+Benalish Hero,{W},1,1,C
+Bestial Fury,{2}{R},3,1,C
+Bestial Fury,{2}{R},3,1,C
+Blazing Salvo,{R},1,1,C
+Bog Rats,{B},1,1,C
+Bramble Wurm,{6}{G},7,1,C
+Burning Shield Askari,{2}{R},3,1,C
+Burning Shield Askari,{2}{R},3,1,C
+Cephalid Looter,{2}{U},3,1,C
+Chaos Charm,{R},1,1,C
+Chaos Charm,{R},1,1,C
+Circle of Protection: Green,{1}{W},2,1,C
+Coercion,{2}{B},3,1,C
+Colos Yearling,{2}{R},3,1,C
+D'Avenant Archer,{2}{W},3,1,C
+Divine Light,{W},1,1,C
+Dreamwinder,{3}{U},4,1,C
+Druid Lyrist,{G},1,1,C
+Echo Tracer,{2}{U},3,1,C
+Elvish Pathcutter,{3}{G},4,1,C
+Elvish Scout,{G},1,1,C
+Endangered Armodon,{2}{G}{G},4,1,C
+Everglove Courier,{2}{G},3,1,U
+Fend Off,{1}{W},2,1,C
+Fend Off,{1}{W},2,1,C
+Fend Off,{1}{W},2,1,C
+Flare,{2}{R},3,1,C
+Flare,{2}{R},3,1,C
+Flight,{U},1,1,C
+Flood,{U},1,1,C
+Funeral Pyre,{W},1,1,C
+Fyndhorn Druid,{2}{G},3,1,C
+Fyndhorn Druid,{2}{G},3,1,C
+Gempalm Avenger,{5}{W},6,1,C
+Gempalm Avenger,{5}{W},6,1,C
+Ghazban Ogre,{G},1,1,C
+Glint Raker,{3}{U},4,1,R
+Goblin Grappler,{R},1,1,C
+Goblin Vandal,{R},1,1,C
+Guerrilla Tactics,{1}{R},2,1,C
+Harvester Druid,{1}{G},2,1,C
+Haunted Cadaver,{3}{B},4,1,C
+Healing Salve,{W},1,1,C
+Hindering Touch,{3}{U},4,1,C
+Hindering Touch,{3}{U},4,1,C
+Huntmaster of the Fells // Ravager of the Fells,{2}{R}{G},4,1,R
+Icatian Scout,{W},1,1,C
+Jalum Tome,{3},3,1,U
+Keeper of Kookus,{R},1,1,C
+Keldon Vandals,{2}{R},3,1,C
+Keldon Vandals,{2}{R},3,1,C
+Kyren Glider,{1}{R},2,1,C
+Lay Waste,{3}{R},4,1,C
+Lieutenant Kirtar,{1}{W}{W},3,1,R
+Mistform Dreamer,{2}{U},3,1,C
+Munitions Expert,{B}{R},2,1,U
+Mystic Enforcer,{2}{G}{W},4,1,U
+Nightwind Glider,{2}{W},3,1,C
+Oraxid,{3}{U},4,1,C
+Orcish Conscripts,{R},1,1,C
+Pardic Firecat,{3}{R},4,1,C
+Primordial Ooze,{R},1,1,U
+Profane Prayers,{2}{B}{B},4,1,C
+Profane Prayers,{2}{B}{B},4,1,C
+Profane Prayers,{2}{B}{B},4,1,C
+Raven Guild Initiate,{2}{U},3,1,C
+Seizures,{1}{B},2,1,C
+Seizures,{1}{B},2,1,C
+Seizures,{1}{B},2,1,C
+Serpentine Basilisk,{2}{G}{G},4,1,U
+Serpentine Basilisk,{2}{G}{G},4,1,U
+Skinthinner,{1}{B},2,1,C
+Soldevi Sage,{1}{U},2,1,C
+Spirit en-Kor,{3}{W},4,1,C
+Sun Clasp,{1}{W},2,1,C
+Time Ebb,{2}{U},3,1,C
+Troubled Healer,{2}{W},3,1,C
+Unburden,{1}{B}{B},3,1,C
+Vexing Sphinx,{1}{U}{U},3,1,R
+Vexing Sphinx,{1}{U}{U},3,1,R
+Wall of Spears,{3},3,1,C
+Wall of Spears,{3},3,1,C
+Wave of Indifference,{X}{R},1,1,C
+Wave of Indifference,{X}{R},1,1,C
+Wind Drake,{2}{U},3,1,C
+Yavimaya Ancients,{3}{G}{G},5,1,C
+Yavimaya Ancients,{3}{G}{G},5,1,C
+Yavimaya Ancients,{3}{G}{G},5,1,C
+Aesthir Glider,{3},3,1,C
+Amulet of Kroog,{2},2,1,C
+"Armix, Filigree Thrasher",{2}{B},3,1,U
+Aven Trooper,{3}{W},4,1,C
+Boiling Blood,{2}{R},3,1,C
+Bone Saw,{0},0,1,U
+Bone Saw,{0},0,1,U
+Bone Saw,{0},0,1,U
+Cadaverous Knight,{2}{B},3,1,C
+Cat Warriors,{1}{G}{G},3,1,C
+Charitable Levy,{1}{W},2,1,U
+Charitable Levy,{1}{W},2,1,U
+Dimir Guildgate,,0,1,C
+Dream Fighter,{2}{U},3,1,C
+Dream Fighter,{2}{U},3,1,C
+Duskrider Falcon,{1}{W},2,1,C
+Duskrider Falcon,{1}{W},2,1,C
+Erratic Explosion,{2}{R},3,1,C
+Essence Filter,{1}{G}{G},3,1,C
+Fervent Denial,{3}{U}{U},5,1,U
+Goblin Firebug,{1}{R},2,1,C
+Goblin Spelunkers,{2}{R},3,1,C
+Golgari Guildgate,,0,1,C
+Grip of Amnesia,{1}{U},2,1,C
+Hazy Homunculus,{1}{U},2,1,C
+Heroism,{2}{W},3,1,U
+Homarid Warrior,{4}{U},5,1,C
+Homarid Warrior,{4}{U},5,1,C
+Hope Charm,{W},1,1,C
+Hope Charm,{W},1,1,C
+Ivory Charm,{W},1,1,C
+Ixidor's Will,{2}{U},3,1,C
+Ixidor's Will,{2}{U},3,1,C
+Ixidor's Will,{2}{U},3,1,C
+Kingfisher,{3}{U},4,1,C
+Lava Axe,{4}{R},5,1,C
+Lupine Prototype,{2},2,1,U
+Misguided Rage,{2}{R},3,1,C
+Mogg Bombers,{3}{R},4,1,C
+Mystic Familiar,{1}{W},2,1,C
+Mystic Familiar,{1}{W},2,1,C
+Mystic Familiar,{1}{W},2,1,C
+Mystic Familiar,{1}{W},2,1,C
+Nova Cleric,{W},1,1,U
+Pacifism,{1}{W},2,1,C
+Penumbra Bobcat,{2}{G},3,1,C
+Pyre Zombie,{1}{B}{R},3,1,R
+Restless Dead,{1}{B},2,1,C
+Sandskin,{2}{W},3,1,C
+Selesnya Guildgate,,0,1,C
+Selesnya Guildgate,,0,1,C
+Sever Soul,{3}{B}{B},5,1,C
+Skyshroud Ridgeback,{G},1,1,C
+Skyshroud Ridgeback,{G},1,1,C
+Skyshroud Ridgeback,{G},1,1,C
+Skyshroud Ridgeback,{G},1,1,C
+Slipstream Eel,{5}{U}{U},7,1,C
+Soul Charmer,{2}{W},3,1,C
+Swamp,,0,1,C
+Swamp,,0,1,C
+Terror,{1}{B},2,1,C
+Thrull Surgeon,{1}{B},2,1,C
+Tobias Andrion,{3}{W}{U},5,1,U
+Touch of Invisibility,{3}{U},4,1,C
+Urborg Mindsucker,{2}{B},3,1,C
+Wall of Vapor,{3}{U},4,1,C
+Ward of Lights,{W}{W},2,1,C
+Witch Hunter,{2}{W}{W},4,1,U
+Amrou Kithkin,{W}{W},2,1,C
+Amrou Kithkin,{W}{W},2,1,C
+Amrou Kithkin,{W}{W},2,1,C
+Ana Disciple,{G},1,1,C
+Arcades Sabboth,{2}{G}{G}{W}{W}{U}{U},8,1,R
+Arcades Sabboth,{2}{G}{G}{W}{W}{U}{U},8,1,R
+Armor Thrull,{2}{B},3,1,C
+Assassin's Blade,{1}{B},2,1,U
+Astrolabe,{3},3,1,C
+Audacious Reshapers,{2}{R},3,1,R
+Balduvian War-Makers,{4}{R},5,1,C
+Binding Agony,{1}{B},2,1,C
+Blood Vassal,{2}{B},3,1,C
+Bloodfire Kavu,{2}{R}{R},4,1,U
+Bloodfire Kavu,{2}{R}{R},4,1,U
+Blossoming Wreath,{G},1,1,C
+Blossoming Wreath,{G},1,1,C
+Blossoming Wreath,{G},1,1,C
+Bottled Cloister,{4},4,1,R
+Bottled Cloister,{4},4,1,R
+Breach,{2}{B},3,1,C
+Bubbling Beebles,{4}{U},5,1,C
+Calming Licid,{2}{W},3,1,U
+Capashen Templar,{2}{W},3,1,C
+Cateran Brute,{2}{B},3,1,C
+Cateran Brute,{2}{B},3,1,C
+Circle of Protection: White,{1}{W},2,1,C
+Deadly Insect,{4}{G},5,1,C
+Defender of Chaos,{2}{R},3,1,C
+"Farid, Enterprising Salvager",{2}{R},3,1,R
+Farrel's Zealot,{1}{W}{W},3,1,C
+Field Surgeon,{1}{W},2,1,C
+Goblin Machinist,{4}{R},5,1,U
+Goblin Shrine,{1}{R}{R},3,1,C
+Goblin Shrine,{1}{R}{R},3,1,C
+Goblin Shrine,{1}{R}{R},3,1,C
+Goblin War Buggy,{1}{R},2,1,C
+Gossamer Chains,{W}{W},2,1,C
+Hapless Researcher,{U},1,1,C
+Headlong Rush,{1}{R},2,1,C
+Homarid Warrior,{4}{U},5,1,C
+Icatian Infantry,{W},1,1,C
+Icatian Scout,{W},1,1,C
+Infuse,{2}{U},3,1,C
+Journeyer's Kite,{2},2,1,R
+Juggernaut,{4},4,1,C
+Kjeldoran Dead,{B},1,1,C
+Krosan Tusker,{5}{G}{G},7,1,C
+"Lazav, the Multifarious",{U}{B},2,1,R
+Mine Bearer,{2}{W},3,1,C
+Mistfolk,{U}{U},2,1,C
+Mistform Mask,{1}{U},2,1,C
+Mistform Wakecaster,{4}{U},5,1,U
+Mistform Wakecaster,{4}{U},5,1,U
+Morgue Thrull,{2}{B},3,1,C
+Necra Sanctuary,{2}{B},3,1,U
+Necra Sanctuary,{2}{B},3,1,U
+Necra Sanctuary,{2}{B},3,1,U
+Necra Sanctuary,{2}{B},3,1,U
+Oni-Cult Anvil,{B}{R},2,1,U
+Opportunity,{4}{U}{U},6,1,U
+Orzhov Guildgate,,0,1,C
+Ovinomancer,{2}{U},3,1,S
+Prismatic Circle,{2}{W},3,1,C
+Raging Goblin,{R},1,1,C
+Ranger en-Vec,{1}{G}{W},3,1,U
+Reckless Ogre,{3}{R},4,1,C
+Repel,{3}{U},4,1,C
+Resistance Fighter,{W},1,1,C
+"Rosheen, Roaring Prophet",{2}{R}{G},4,1,R
+Sanctum Custodian,{2}{W},3,1,C
+"Sanwell, Avenger Ace",{1}{W},2,1,R
+Shattered Crypt,{X}{B}{B},2,1,C
+Shattered Crypt,{X}{B}{B},2,1,C
+Shattered Crypt,{X}{B}{B},2,1,C
+Shoreline Ranger,{5}{U},6,1,C
+Shrill Howler // Howling Chorus,{2}{G},3,1,U
+Skyshroud Cutter,{3}{G},4,1,C
+Sol'kanar the Swamp King,{2}{U}{B}{R},5,1,R
+Sonic Burst,{1}{R},2,1,C
+Spine of Ish Sah,{7},7,1,R
+Spiritmonger,{3}{B}{G},5,1,U
+Tarpan,{G},1,1,C
+Time Ebb,{2}{U},3,1,C
+Treetop Scout,{G},1,1,C
+Treetop Scout,{G},1,1,C
+Ulvenwald Mysteries,{2}{G},3,1,U
+"Valduk, Keeper of the Flame",{2}{R},3,1,U
+Viashino Warrior,{3}{R},4,1,C
+Whip Sergeant,{2}{R},3,1,U
+Wipe Clean,{1}{W},2,1,C
+Wipe Clean,{1}{W},2,1,C
+Wipe Clean,{1}{W},2,1,C
+Apprentice Wizard,{1}{U}{U},3,1,C
+Astral Steel,{2}{W},3,1,C
+Astral Steel,{2}{W},3,1,C
+Astral Steel,{2}{W},3,1,C
+Astral Steel,{2}{W},3,1,C
+Asylum Visitor,{1}{B},2,1,U
+Bamboozle,{2}{U},3,1,U
+Barbed Sextant,{1},1,1,C
+Barbed Sextant,{1},1,1,C
+Barrow Ghoul,{1}{B},2,1,C
+Bestial Fury,{2}{R},3,1,C
+Bouncing Beebles,{2}{U},3,1,C
+Brine Shaman,{1}{B},2,1,C
+Cemetery Gate,{2}{B},3,1,C
+Chartooth Cougar,{5}{R},6,1,C
+Chartooth Cougar,{5}{R},6,1,C
+Circle of Protection: White,{1}{W},2,1,C
+Cone of Flame,{3}{R}{R},5,1,U
+Dark Banishing,{2}{B},3,1,C
+Dark Withering,{4}{B}{B},6,1,U
+Denizen of the Deep,{6}{U}{U},8,1,R
+Escape Artist,{1}{U},2,1,C
+Forbidden Alchemy,{2}{U},3,1,U
+Goblin Raider,{1}{R},2,1,C
+Gryff's Boon,{W},1,1,U
+Hermetic Study,{1}{U},2,1,C
+Imagecrafter,{U},1,1,C
+Ironshell Beetle,{1}{G},2,1,C
+Island,,0,1,C
+Island,,0,1,C
+Island,,0,1,C
+Island,,0,1,C
+Island,,0,1,C
+Ivory Tower,{1},1,1,U
+Ivory Tower,{1},1,1,U
+Jamuraan Lion,{2}{W},3,1,C
+Krosan Avenger,{2}{G},3,1,C
+Kyren Sniper,{2}{R},3,1,C
+Llanowar Dead,{B}{G},2,1,C
+Mageta's Boon,{1}{W},2,1,C
+Meddle,{1}{U},2,1,U
+Meddle,{1}{U},2,1,U
+Nomadic Elf,{1}{G},2,1,C
+One with the Machine,{3}{U},4,1,R
+Patagia Golem,{4},4,1,U
+Pious Warrior,{3}{W},4,1,C
+Plains,,0,1,C
+Plains,,0,1,C
+Power Sink,{X}{U},1,1,C
+Psychic Venom,{1}{U},2,1,C
+Psychic Venom,{1}{U},2,1,C
+Psychic Venom,{1}{U},2,1,C
+Psychic Venom,{1}{U},2,1,C
+Putrid Raptor,{4}{B}{B},6,1,U
+Quirion Elves,{1}{G},2,1,C
+Recuperate,{3}{W},4,1,C
+Recuperate,{3}{W},4,1,C
+Ritual of Steel,{2}{W},3,1,C
+Sage Owl,{1}{U},2,1,C
+Sandbar Merfolk,{U},1,1,C
+Sandstone Deadfall,{3},3,1,U
+Saprazzan Raider,{2}{U},3,1,C
+Shackles,{2}{W},3,1,C
+Sharding Sphinx,{4}{U}{U},6,1,R
+Sharuum the Hegemon,{3}{W}{U}{B},6,1,R
+Sigil of Valor,{2},2,1,U
+Snapping Thragg,{4}{R},5,1,U
+Soldevi Sentry,{1},1,1,C
+Tidal Visionary,{U},1,1,C
+Tor Wauki,{2}{B}{B}{R},5,1,U
+Treasure Trove,{2}{U}{U},4,1,U
+Tremor,{R},1,1,C
+Uncontrolled Infestation,{1}{R},2,1,C
+Uncontrolled Infestation,{1}{R},2,1,C
+Unified Strike,{W},1,1,C
+Unified Strike,{W},1,1,C
+Unified Strike,{W},1,1,C
+Unified Strike,{W},1,1,C
+Urza's Armor,{6},6,1,U
+Venomous Fangs,{2}{G},3,1,C
+Viashino Cutthroat,{2}{R}{R},4,1,U
+Viashino Weaponsmith,{3}{R},4,1,C
+Vigorous Charge,{G},1,1,C
+Wall of Resistance,{1}{W},2,1,C
+Wall of Resistance,{1}{W},2,1,C
+Wall of Shadows,{1}{B}{B},3,1,C
+Wall of Shadows,{1}{B}{B},3,1,C
+Wreck Hunter,{B}{B},2,1,R
+Yavimaya's Embrace,{5}{G}{U}{U},8,1,R
+Abiding Grace,{2}{W},3,1,U
+Book Burning,{1}{R},2,1,C
+Burnished Hart,{3},3,1,U
+Catalog,{2}{U},3,1,C
+Catalog,{2}{U},3,1,C
+Cateran Persuader,{B}{B},2,1,C
+Cavern Harpy,{U}{B},2,1,C
+Cavern Harpy,{U}{B},2,1,C
+Cavern Harpy,{U}{B},2,1,C
+Cavern Harpy,{U}{B},2,1,C
+Cavern Harpy,{U}{B},2,1,C
+Cloak of Invisibility,{U},1,1,C
+Cloudskate,{1}{U},2,1,C
+Cloudskate,{1}{U},2,1,C
+Contempt,{1}{U},2,1,C
+Contempt,{1}{U},2,1,C
+Contempt,{1}{U},2,1,C
+Contempt,{1}{U},2,1,C
+Contempt,{1}{U},2,1,C
+Contempt,{1}{U},2,1,C
+Contempt,{1}{U},2,1,C
+Crown of Awe,{1}{W},2,1,C
+Defender of Law,{2}{W},3,1,C
+Disenchant,{1}{W},2,1,C
+Dispersal Shield,{1}{U},2,1,C
+Dispersal Shield,{1}{U},2,1,C
+Disruptive Pitmage,{2}{U},3,1,C
+Dodecapod,{4},4,1,U
+Dodecapod,{4},4,1,U
+Dream Prowler,{2}{U}{U},4,1,C
+Elvish Lookout,{G},1,1,C
+Enchantment Alteration,{U},1,1,U
+Erase,{W},1,1,C
+Escape Routes,{2}{U},3,1,C
+Escape Routes,{2}{U},3,1,C
+Expunge,{2}{B},3,1,C
+Expunge,{2}{B},3,1,C
+Expunge,{2}{B},3,1,C
+Fatal Blow,{B},1,1,C
+Fledgling Osprey,{U},1,1,C
+Fog of Gnats,{B}{B},2,1,C
+Frozen Solid,{1}{U}{U},3,1,C
+Gaseous Form,{2}{U},3,1,C
+Ghitu War Cry,{2}{R},3,1,U
+Gilded Light,{1}{W},2,1,U
+Gorilla Berserkers,{3}{G}{G},5,1,C
+Gorilla War Cry,{1}{R},2,1,C
+Grapple with the Past,{1}{G},2,1,C
+Gruul Guildgate,,0,1,C
+Havoc,{1}{R},2,1,U
+Illusionary Wall,{4}{U},5,1,C
+Ivory Tower,{1},1,1,U
+Krenko's Command,{1}{R},2,1,C
+Lay of the Land,{G},1,1,C
+Living Armor,{4},4,1,C
+Living Armor,{4},4,1,C
+Lurking Jackals,{B},1,1,U
+Lurking Jackals,{B},1,1,U
+Mage's Guile,{1}{U},2,1,C
+Mage's Guile,{1}{U},2,1,C
+Mage's Guile,{1}{U},2,1,C
+Mage's Guile,{1}{U},2,1,C
+Marhault Elsdragon,{3}{R}{R}{G},6,1,U
+Mnemonic Sphere,{1}{U},2,1,C
+Momentary Blink,{1}{W},2,1,C
+Nested Shambler,{B},1,1,C
+Orcish Veteran,{2}{R},3,1,C
+Phyrexian Defiler,{2}{B}{B},4,1,U
+Phyrexian Rebirth,{4}{W}{W},6,1,R
+Plated Spider,{4}{G},5,1,C
+Puppet Master,{U}{U}{U},3,1,U
+Puppet Master,{U}{U}{U},3,1,U
+Razortooth Rats,{2}{B},3,1,C
+Relearn,{1}{U}{U},3,1,U
+Reprisal,{1}{W},2,1,C
+Rhystic Circle,{2}{W}{W},4,1,C
+Root Cage,{1}{G},2,1,U
+Rummaging Wizard,{3}{U},4,1,U
+Scavenging Ghoul,{3}{B},4,1,U
+Sea's Claim,{U},1,1,C
+Sengir Bats,{1}{B}{B},3,1,C
+Silhana Ledgewalker,{1}{G},2,1,C
+Solfatara,{2}{R},3,1,C
+Spined Fluke,{2}{B},3,1,U
+Steamclaw,{2},2,1,U
+Summary Dismissal,{2}{U}{U},4,1,U
+Swamp,,0,1,C
+Swamp,,0,1,C
+"Tajic, Legion's Edge",{1}{R}{W},3,1,R
+Temple of Enlightenment,,0,1,R
+Thallid,{G},1,1,C
+The Fallen,{1}{B}{B}{B},4,1,U
+Tidal Courier,{3}{U},4,1,U
+Tidal Flats,{U},1,1,C
+Torture,{B},1,1,C
+Tundra Wolves,{W},1,1,C
+Unholy Strength,{B},1,1,C
+Unstable Amulet,{1}{R},2,1,U
+Vedalken Humiliator,{3}{U},4,1,R
+Wirewood Guardian,{5}{G}{G},7,1,C
+Wirewood Guardian,{5}{G}{G},7,1,C
+Wirewood Guardian,{5}{G}{G},7,1,C
+Wirewood Guardian,{5}{G}{G},7,1,C
+Wirewood Savage,{2}{G},3,1,C
+Wirewood Savage,{2}{G},3,1,C
+Acridian,{1}{G},2,1,C
+Acridian,{1}{G},2,1,C
+Airdrop Condor,{4}{R},5,1,U
+Anaba Shaman,{3}{R},4,1,C
+Aura Extraction,{1}{W},2,1,U
+Body Snatcher,{2}{B}{B},4,1,R
+Brainwash,{W},1,1,C
+Cackling Counterpart,{1}{U}{U},3,1,U
+Chief of the Foundry,{3},3,1,U
+Circle of Protection: Blue,{1}{W},2,1,C
+Deep Reconnaissance,{2}{G},3,1,U
+Disenchant,{1}{W},2,1,C
+Dragon Shadow,{1}{B},2,1,C
+Dragon Shadow,{1}{B},2,1,C
+Elvish Scrapper,{G},1,1,U
+Filigree Attendant,{2}{U}{U},4,1,U
+Filigree Attendant,{2}{U}{U},4,1,U
+Frantic Purification,{2}{W},3,1,C
+Furious Assault,{2}{R},3,1,C
+Gaea's Bounty,{2}{G},3,1,C
+Galvanic Iteration,{U}{R},2,1,R
+Galvanic Iteration,{U}{R},2,1,R
+Ghoultree,{7}{G},8,1,U
+Goblin Masons,{1}{R},2,1,C
+Goblin Masons,{1}{R},2,1,C
+Heat Ray,{X}{R},1,1,C
+Icy Manipulator,{4},4,1,U
+Inspiration,{3}{U},4,1,C
+Izzet Guildgate,,0,1,C
+Jolrael's Favor,{1}{G},2,1,C
+Kaervek's Torch,{X}{R},1,1,C
+Knight of Valor,{2}{W},3,1,C
+Lashknife,{1}{W},2,1,C
+Martyrs' Tomb,{2}{W}{B},4,1,U
+Martyrs' Tomb,{2}{W}{B},4,1,U
+Mausoleum Wanderer,{U},1,1,R
+Mausoleum Wanderer,{U},1,1,R
+Mausoleum Wanderer,{U},1,1,R
+Mountain,,0,1,C
+Mountain,,0,1,C
+Mountain,,0,1,C
+Mountain,,0,1,C
+Mystic Veil,{1}{U},2,1,C
+Nightshade Seer,{3}{B},4,1,U
+Opal Gargoyle,{1}{W},2,1,C
+Pacifism,{1}{W},2,1,C
+Pledge of Loyalty,{1}{W},2,1,U
+Power Sink,{X}{U},1,1,C
+Power Sink,{X}{U},1,1,C
+Radiant's Judgment,{2}{W},3,1,C
+Radiant's Judgment,{2}{W},3,1,C
+Rathi Intimidator,{1}{B}{B},3,1,C
+Rathi Intimidator,{1}{B}{B},3,1,C
+"Rith, the Awakener",{3}{R}{G}{W},6,1,R
+Rootwater Depths,,0,1,U
+Rootwater Depths,,0,1,U
+Runechanter's Pike,{2},2,1,R
+Serra Paladin,{2}{W}{W},4,1,C
+Shieldmage Advocate,{2}{W},3,1,C
+Skittering Horror,{2}{B},3,1,C
+Skittering Horror,{2}{B},3,1,C
+Slow Motion,{2}{U},3,1,C
+Slow Motion,{2}{U},3,1,C
+Slow Motion,{2}{U},3,1,C
+Slow Motion,{2}{U},3,1,C
+Slow Motion,{2}{U},3,1,C
+Soldevi Steam Beast,{5},5,1,C
+Spinal Embrace,{3}{U}{U}{B},6,1,R
+Takklemaggot,{2}{B}{B},4,1,U
+Teferi's Curse,{1}{U},2,1,C
+Temporal Spring,{1}{G}{U},3,1,C
+Terminal Agony,{2}{B}{R},4,1,C
+Terminal Agony,{2}{B}{R},4,1,C
+Terminal Agony,{2}{B}{R},4,1,C
+Terminal Agony,{2}{B}{R},4,1,C
+Terminal Agony,{2}{B}{R},4,1,C
+Terminal Agony,{2}{B}{R},4,1,C
+Thallid,{G},1,1,C
+Thought Nibbler,{U},1,1,C
+Thunderclap,{2}{R},3,1,C
+Tranquility,{2}{G},3,1,C
+Treetop Rangers,{2}{G},3,1,C
+Unerring Sling,{3},3,1,U
+Unstable Mutation,{U},1,1,C
+Vindictive Vampire,{3}{B},4,1,U
+Warrior's Honor,{2}{W},3,1,C
+White Knight,{W}{W},2,1,U
+Wild Dogs,{G},1,1,C
+Wizard Mentor,{2}{U},3,1,C
+Workshop Elders,{6}{U},7,1,R
+Aftershock,{2}{R}{R},4,1,C
+Aven Fateshaper,{6}{U},7,1,U
+Aven Fateshaper,{6}{U},7,1,U
+Befoul,{2}{B}{B},4,1,C
+Bloodbraid Elf,{2}{R}{G},4,1,S
+Borborygmos Enraged,{4}{R}{R}{G}{G},8,1,R
+Brass Secretary,{3},3,1,U
+Cannibalize,{1}{B},2,1,C
+"Chainer, Dementia Master",{3}{B}{B},5,1,R
+Circle of Protection: Green,{1}{W},2,1,C
+Coalition Honor Guard,{3}{W},4,1,C
+Coalition Honor Guard,{3}{W},4,1,C
+Coalition Honor Guard,{3}{W},4,1,C
+Coalition Honor Guard,{3}{W},4,1,C
+Coalition Honor Guard,{3}{W},4,1,C
+Craw Giant,{3}{G}{G}{G}{G},7,1,U
+Daru Spiritualist,{1}{W},2,1,C
+Daru Spiritualist,{1}{W},2,1,C
+Dauthi Jackal,{2}{B},3,1,C
+Dega Sanctuary,{2}{W},3,1,U
+Dega Sanctuary,{2}{W},3,1,U
+Divergent Growth,{G},1,1,C
+Divergent Growth,{G},1,1,C
+Elvish Hunter,{1}{G},2,1,C
+Empty the Warrens,{3}{R},4,1,C
+Fatigue,{1}{U},2,1,C
+Fatigue,{1}{U},2,1,C
+Fatigue,{1}{U},2,1,C
+Fatigue,{1}{U},2,1,C
+Ferocity,{1}{G},2,1,C
+Forest,,0,1,C
+Forest,,0,1,C
+Gempalm Strider,{1}{G},2,1,U
+Goblin Legionnaire,{R}{W},2,1,C
+Gorilla Berserkers,{3}{G}{G},5,1,C
+Granite Grip,{2}{R},3,1,C
+Hellkite Igniter,{5}{R}{R},7,1,R
+Hope and Glory,{1}{W},2,1,U
+Icatian Moneychanger,{W},1,1,C
+Index,{U},1,1,C
+Initiates of the Ebon Hand,{B},1,1,C
+Insubordination,{B}{B},2,1,C
+Jolt,{2}{U},3,1,C
+Jungle Barrier,{2}{G}{U},4,1,U
+Knight Errant,{1}{W},2,1,C
+Lure,{1}{G}{G},3,1,U
+Man-o'-War,{2}{U},3,1,C
+Mine Collapse,{3}{R},4,1,C
+Mine Collapse,{3}{R},4,1,C
+Mine Collapse,{3}{R},4,1,C
+Mine Collapse,{3}{R},4,1,C
+Mine Collapse,{3}{R},4,1,C
+Mistform Warchief,{2}{U},3,1,U
+Mistform Warchief,{2}{U},3,1,U
+Opal Caryatid,{W},1,1,C
+Orcish Spy,{R},1,1,C
+Out of Time,{1}{W}{W},3,1,R
+Pacifism,{1}{W},2,1,C
+Plains,,0,1,C
+Plains,,0,1,C
+Plains,,0,1,C
+Plains,,0,1,C
+Plains,,0,1,C
+Power Taint,{1}{U},2,1,C
+Power Taint,{1}{U},2,1,C
+Power Taint,{1}{U},2,1,C
+Power Taint,{1}{U},2,1,C
+Primoc Escapee,{6}{U},7,1,U
+Prodigal Sorcerer,{2}{U},3,1,C
+Prodigal Sorcerer,{2}{U},3,1,C
+Rabid Rats,{1}{B},2,1,C
+"Radha, Heir to Keld",{R}{G},2,1,U
+"Radha, Heir to Keld",{R}{G},2,1,U
+Ransack,{3}{U},4,1,U
+Rats' Feast,{X}{B},1,1,C
+Riptide Biologist,{1}{U},2,1,C
+Riptide Biologist,{1}{U},2,1,C
+Rites of Initiation,{R},1,1,C
+Rites of Initiation,{R},1,1,C
+Samite Blessing,{W},1,1,C
+Sapphire Charm,{U},1,1,C
+Sapphire Charm,{U},1,1,C
+Scrap,{2}{R},3,1,C
+Serra Zealot,{W},1,1,C
+Shambling Shell,{1}{B}{G},3,1,C
+Simoon,{R}{G},2,1,U
+Spell Queller,{1}{W}{U},3,1,R
+Spell Queller,{1}{W}{U},3,1,R
+Spell Queller,{1}{W}{U},3,1,R
+Stone Rain,{2}{R},3,1,C
+Suntail Hawk,{W},1,1,C
+Suntail Hawk,{W},1,1,C
+Temple of Silence,,0,1,R
+Wall of Wonder,{2}{U}{U},4,1,U
+Wandering Eye,{2}{U},3,1,C
+Weatherseed Faeries,{2}{U},3,1,C
+Wicked Reward,{1}{B},2,1,C
+Aeromoeba,{3}{U},4,1,C
+Cabal Executioner,{2}{B}{B},4,1,U
+Carrion Beetles,{B},1,1,C
+Caustic Tar,{4}{B}{B},6,1,U
+Cessation,{2}{W},3,1,C
+Cessation,{2}{W},3,1,C
+Cessation,{2}{W},3,1,C
+Cessation,{2}{W},3,1,C
+Chalice of Life // Chalice of Death,{3},3,1,U
+Chime of Night,{1}{B},2,1,C
+Chimeric Sphere,{3},3,1,U
+Cocoon,{G},1,1,U
+Conquer,{3}{R}{R},5,1,U
+Darkwater Catacombs,,0,1,R
+Deathmark Prelate,{3}{B},4,1,U
+Deathmark Prelate,{3}{B},4,1,U
+Deathmark Prelate,{3}{B},4,1,U
+Diligent Farmhand,{G},1,1,C
+Dimir House Guard,{3}{B},4,1,C
+Disciple of Malice,{1}{B},2,1,C
+Disenchant,{1}{W},2,1,C
+Dominaria's Judgment,{2}{W},3,1,R
+Dominaria's Judgment,{2}{W},3,1,R
+Dragon Breath,{1}{R},2,1,C
+Dragon Breath,{1}{R},2,1,C
+Dragon Wings,{1}{U},2,1,C
+Dragon Wings,{1}{U},2,1,C
+Dream Cache,{2}{U},3,1,C
+Elvish Fury,{G},1,1,C
+Endless Scream,{X}{B},1,1,C
+Enervate,{1}{U},2,1,C
+Enervate,{1}{U},2,1,C
+Enervate,{1}{U},2,1,C
+Enervate,{1}{U},2,1,C
+Exclude,{2}{U},3,1,C
+Fact or Fiction,{3}{U},4,1,U
+Fade from Memory,{B},1,1,U
+Fiend Hunter,{1}{W}{W},3,1,U
+Fit of Rage,{1}{R},2,1,C
+Flowstone Surge,{1}{R},2,1,U
+Frontline Strategist,{W},1,1,C
+Frontline Strategist,{W},1,1,C
+Frontline Strategist,{W},1,1,C
+Gempalm Incinerator,{2}{R},3,1,U
+Ghoulish Procession,{1}{B},2,1,U
+Gift of the Woods,{G},1,1,C
+Glory,{3}{W}{W},5,1,R
+Grim Servant,{3}{B},4,1,U
+Hopeful Initiate,{W},1,1,R
+Indestructible Aura,{W},1,1,C
+Indestructible Aura,{W},1,1,C
+Island,,0,1,C
+Island,,0,1,C
+Island,,0,1,C
+"Jolrael, Mwonvuli Recluse",{1}{G},2,1,R
+"Jolrael, Mwonvuli Recluse",{1}{G},2,1,R
+Kjeldoran Elite Guard,{3}{W},4,1,U
+Kukemssa Serpent,{3}{U},4,1,C
+Lat-Nam's Legacy,{1}{U},2,1,C
+Lat-Nam's Legacy,{1}{U},2,1,C
+Lat-Nam's Legacy,{1}{U},2,1,C
+Lead Golem,{5},5,1,U
+Noble Stand,{4}{W},5,1,U
+Pardic Arsonist,{2}{R}{R},4,1,U
+Puppeteer,{2}{U},3,1,U
+Quirion Elves,{1}{G},2,1,C
+Rack and Ruin,{2}{R},3,1,U
+Rack and Ruin,{2}{R},3,1,U
+Ramosian Rally,{3}{W},4,1,C
+Ramosian Rally,{3}{W},4,1,C
+Ramosian Rally,{3}{W},4,1,C
+Ramosian Rally,{3}{W},4,1,C
+Rashka the Slayer,{3}{W}{W},5,1,U
+Repopulate,{1}{G},2,1,C
+Repopulate,{1}{G},2,1,C
+Rune of Protection: Black,{1}{W},2,1,C
+Rune of Protection: White,{1}{W},2,1,C
+Shock,{R},1,1,C
+Silverglade Elemental,{4}{G},5,1,C
+Silverglade Elemental,{4}{G},5,1,C
+Silverglade Elemental,{4}{G},5,1,C
+Silverglade Elemental,{4}{G},5,1,C
+Simian Grunts,{2}{G},3,1,C
+Skycloud Expanse,,0,1,R
+Soltari Lancer,{2}{W},3,1,C
+Sorcerous Spyglass,{2},2,1,S
+Sorcerous Spyglass,{2},2,1,S
+Splinterfright,{2}{G},3,1,U
+Splinterfright,{2}{G},3,1,U
+Sprouting Vines,{2}{G},3,1,C
+Squirrel Nest,{1}{G}{G},3,1,U
+Taunting Elf,{G},1,1,C
+Taunting Elf,{G},1,1,C
+Taunting Elf,{G},1,1,C
+Temporal Fissure,{4}{U},5,1,C
+Temporal Fissure,{4}{U},5,1,C
+Tidal Surge,{1}{U},2,1,C
+Tragic Poet,{W},1,1,C
+Twisted Abomination,{5}{B},6,1,C
+Untamed Wilds,{2}{G},3,1,U
+Vitality Charm,{G},1,1,C
+Vitality Charm,{G},1,1,C
+Blacksmith's Skill,{W},1,1,C
+Capashen Standard,{W},1,1,C
+Cathar Commando,{1}{W},2,1,C
+Cathar Commando,{1}{W},2,1,C
+Cathar Commando,{1}{W},2,1,C
+Chieftain en-Dal,{1}{W}{W},3,1,U
+Chieftain en-Dal,{1}{W}{W},3,1,U
+Circle of Protection: Black,{1}{W},2,1,C
+Creeping Mold,{2}{G}{G},4,1,U
+Creeping Mold,{2}{G}{G},4,1,U
+Darkwatch Elves,{2}{G},3,1,U
+Defy Gravity,{U},1,1,C
+Disciple of Grace,{1}{W},2,1,C
+Disciple of Grace,{1}{W},2,1,C
+Disciple of Grace,{1}{W},2,1,C
+Disciple of Grace,{1}{W},2,1,C
+Disciple of Grace,{1}{W},2,1,C
+Diversionary Tactics,{3}{W},4,1,U
+Dwarven Soldier,{1}{R},2,1,C
+Dying Wail,{1}{B},2,1,C
+Earsplitting Rats,{3}{B},4,1,C
+Feast of the Unicorn,{3}{B},4,1,C
+Fertile Ground,{1}{G},2,1,C
+Foresight,{1}{U},2,1,C
+Glimmer Bairn,{G},1,1,C
+Glimmer Bairn,{G},1,1,C
+Goblin Electromancer,{U}{R},2,1,C
+Goblin Electromancer,{U}{R},2,1,C
+Grizzly Bears,{1}{G},2,1,C
+Homarid Spawning Bed,{U}{U},2,1,U
+Horseshoe Crab,{2}{U},3,1,C
+Horseshoe Crab,{2}{U},3,1,C
+Indulgent Aristocrat,{B},1,1,U
+Knight of Dawn,{1}{W}{W},3,1,U
+Marble Gargoyle,{2}{W},3,1,C
+Marble Gargoyle,{2}{W},3,1,C
+Marble Gargoyle,{2}{W},3,1,C
+Norritt,{3}{B},4,1,C
+Ovinomancer,{2}{U},3,1,U
+Plains,,0,1,C
+Quash,{2}{U}{U},4,1,U
+Quash,{2}{U}{U},4,1,U
+Rabid Wombat,{2}{G}{G},4,1,U
+Rats of Rath,{1}{B},2,1,C
+Ravenous Rats,{1}{B},2,1,C
+Reprisal,{1}{W},2,1,U
+Rune of Protection: Blue,{1}{W},2,1,C
+Rune of Protection: Green,{1}{W},2,1,C
+Samite Archer,{1}{W}{U},3,1,U
+Serrated Biskelion,{3},3,1,U
+Sivvi's Ruse,{2}{W}{W},4,1,U
+Sleeper's Guile,{2}{B},3,1,C
+"Slobad, Goblin Tinkerer",{1}{R},2,1,R
+Smelting Vat,{4},4,1,R
+Spirit Cairn,{2}{W},3,1,U
+Spirit Cairn,{2}{W},3,1,U
+Spy Network,{U},1,1,C
+Stinging Barrier,{2}{U}{U},4,1,C
+Thorn Thallid,{1}{G}{G},3,1,C
+Twitch,{2}{U},3,1,C
+Twitch,{2}{U},3,1,C
+Twitch,{2}{U},3,1,C
+Urborg Elf,{1}{G},2,1,C
+Walking Desecration,{2}{B},3,1,U
+Wall of Hope,{W},1,1,C
+Wall of Hope,{W},1,1,C
+Wall of Hope,{W},1,1,C
+Wall of Hope,{W},1,1,C
+Wind Spirit,{4}{U},5,1,U
+Woodcloaker,{5}{G},6,1,C
+Woodcloaker,{5}{G},6,1,C
+Yavimaya Kavu,{2}{R}{G},4,1,U
+Young Wolf,{G},1,1,C
+Aboshan's Desire,{U},1,1,C
+Aboshan's Desire,{U},1,1,C
+About Face,{R},1,1,C
+About Face,{R},1,1,C
+Ajani's Pridemate,{1}{W},2,1,S
+Cephalid Shrine,{1}{U}{U},3,1,R
+Chandler,{4}{R},5,1,C
+Cindervines,{R}{G},2,1,R
+Circle of Protection: Red,{1}{W},2,1,C
+Confound,{1}{U},2,1,C
+Defender of the Order,{3}{W},4,1,R
+Disciple of Law,{1}{W},2,1,C
+Dreamstone Hedron,{6},6,1,U
+Faceless Butcher,{2}{B}{B},4,1,S
+Fiery Mantle,{1}{R},2,1,C
+Flowstone Flood,{3}{R},4,1,U
+Gangrenous Goliath,{3}{B}{B},5,1,R
+Gangrenous Goliath,{3}{B}{B},5,1,R
+Ghosthelm Courier,{2}{U},3,1,U
+Goblin Gardener,{3}{R},4,1,C
+Gulf Squid,{3}{U},4,1,C
+Hidden Horror,{1}{B}{B},3,1,U
+Hidden Horror,{1}{B}{B},3,1,U
+Icatian Javelineers,{W},1,1,C
+Icatian Javelineers,{W},1,1,C
+Icatian Javelineers,{W},1,1,C
+Impulse,{1}{U},2,1,C
+Imskir Iron-Eater,{6}{B}{R},8,1,R
+Irrigation Ditch,,0,1,C
+Irrigation Ditch,,0,1,C
+Keeper of the Mind,{U}{U},2,1,U
+Mind Extraction,{2}{B},3,1,C
+Mind Extraction,{2}{B},3,1,C
+Mind Extraction,{2}{B},3,1,C
+Mind Maggots,{3}{B},4,1,U
+Mindstab Thrull,{1}{B}{B},3,1,C
+Otarian Juggernaut,{4},4,1,R
+Quicken,{U},1,1,U
+Quicksilver Dagger,{1}{U}{R},3,1,C
+Quicksilver Dagger,{1}{U}{R},3,1,C
+Quicksilver Dagger,{1}{U}{R},3,1,C
+Quicksilver Dagger,{1}{U}{R},3,1,C
+Quicksilver Dagger,{1}{U}{R},3,1,C
+Ramosian Sergeant,{W},1,1,C
+Reinforcements,{W},1,1,C
+Relearn,{1}{U}{U},3,1,U
+Sanctum Guardian,{1}{W}{W},3,1,U
+Seal of the Guildpact,{5},5,1,R
+Sivitri Scarzam,{5}{U}{B},7,1,U
+Skirk Drill Sergeant,{1}{R},2,1,U
+Skyshroud Archer,{G},1,1,C
+Skyshroud Archer,{G},1,1,C
+Skyshroud Archer,{G},1,1,C
+Skyshroud Archer,{G},1,1,C
+Sluggishness,{1}{R},2,1,C
+Sluggishness,{1}{R},2,1,C
+Spectral Shield,{1}{W}{U},3,1,U
+Spire Owl,{1}{U},2,1,C
+Spite // Malice,{3}{U} // {3}{B},8,1,U
+Squee's Embrace,{R}{W},2,1,C
+Stone Rain,{2}{R},3,1,C
+Swamp,,0,1,C
+Swamp,,0,1,C
+Swamp,,0,1,C
+Swamp,,0,1,C
+Terminal Moraine,,0,1,U
+Trained Orgg,{6}{R},7,1,R
+Tranquility,{2}{G},3,1,C
+Twisted Abomination,{5}{B},6,1,S
+Veiled Apparition,{1}{U},2,1,U
+Veiled Apparition,{1}{U},2,1,U
+Veiled Apparition,{1}{U},2,1,U
+Veiled Apparition,{1}{U},2,1,U
+Watchdog,{3},3,1,U
+Wormfang Crab,{3}{U},4,1,U
+Binding Grasp,{3}{U},4,1,U
+Brilliant Halo,{1}{W},2,1,C
+Browse,{2}{U}{U},4,1,U
+Collective Brutality,{1}{B},2,1,R
+Customs Depot,{1}{U},2,1,U
+Customs Depot,{1}{U},2,1,U
+Devout Witness,{2}{W},3,1,C
+Disappear,{2}{U}{U},4,1,U
+Endemic Plague,{3}{B},4,1,R
+Endemic Plague,{3}{B},4,1,R
+Etched Champion,{3},3,1,R
+Fyndhorn Brownie,{2}{G},3,1,C
+Gorilla Warrior,{2}{G},3,1,C
+Gravebane Zombie,{3}{B},4,1,U
+Humble,{1}{W},2,1,U
+Icatian Moneychanger,{W},1,1,C
+Imprisoned in the Moon,{2}{U},3,1,C
+King Crab,{4}{U}{U},6,1,U
+Krosan Drover,{3}{G},4,1,C
+Krosan Drover,{3}{G},4,1,C
+Lobotomy,{2}{U}{B},4,1,U
+Maddening Wind,{2}{G},3,1,U
+Merfolk of the Pearl Trident,{U},1,1,C
+Mountain,,0,1,C
+Mountain,,0,1,C
+Mountain,,0,1,C
+Mountain,,0,1,C
+Night Soil,{G}{G},2,1,C
+Peace and Quiet,{1}{W},2,1,U
+Penumbra Kavu,{4}{G},5,1,U
+Phyrexian Gargantua,{4}{B}{B},6,1,U
+Putrefy,{1}{B}{G},3,1,U
+Raging Goblin,{R},1,1,U
+Raging Gorilla,{2}{R},3,1,C
+Rejuvenate,{3}{G},4,1,C
+Scrivener,{4}{U},5,1,U
+Shadowblood Egg,{1},1,1,U
+Skyshroud Elf,{1}{G},2,1,C
+Spiny Starfish,{2}{U},3,1,U
+Spiny Starfish,{2}{U},3,1,U
+Subjugator Angel,{4}{W}{W},6,1,U
+Temple of Deceit,,0,1,R
+Thragtusk,{4}{G},5,1,S
+Triskelion,{6},6,1,R
+Urza's Blueprints,{6},6,1,R
+Walking Wall,{4},4,1,U
+Wall of Mulch,{1}{G},2,1,U
+Warbreak Trumpeter,{R},1,1,U
+Wayfarer's Bauble,{1},1,1,C
+Whalebone Glider,{2},2,1,U
+Wheel of Potential,{2}{R},3,1,R
+Alabaster Potion,{X}{W}{W},2,1,C
+Alabaster Wall,{2}{W},3,1,C
+Anurid Scavenger,{2}{G},3,1,U
+Aura Flux,{2}{U},3,1,C
+Aura Flux,{2}{U},3,1,C
+Blinding Light,{2}{W},3,1,U
+Blinding Light,{2}{W},3,1,U
+Brass Herald,{6},6,1,U
+Brass Herald,{6},6,1,U
+Brine Seer,{3}{U},4,1,U
+Cabal Interrogator,{1}{B},2,1,U
+Cephalid Retainer,{2}{U}{U},4,1,R
+Chilling Apparition,{2}{B},3,1,U
+Chromatic Star,{1},1,1,U
+Chromatic Star,{1},1,1,U
+Chromatic Star,{1},1,1,U
+Chromatic Star,{1},1,1,U
+Clot Sliver,{1}{B},2,1,C
+Coiling Woodworm,{2}{G},3,1,U
+Compulsion,{1}{U},2,1,U
+Decimate,{2}{R}{G},4,1,R
+Dispersing Orb,{3}{U}{U},5,1,U
+Elven Fortress,{G},1,1,C
+Evasive Action,{1}{U},2,1,U
+Falter,{1}{R},2,1,C
+Forgotten Lore,{G},1,1,U
+Galvanic Relay,{2}{R},3,1,C
+Galvanic Relay,{2}{R},3,1,C
+Galvanic Relay,{2}{R},3,1,C
+Galvanic Relay,{2}{R},3,1,C
+Grave Defiler,{3}{B},4,1,U
+High Ground,{W},1,1,U
+High Ground,{W},1,1,U
+Horrible Hordes,{3},3,1,U
+Keeper of the Flame,{R}{R},2,1,U
+Lat-Nam's Legacy,{1}{U},2,1,C
+Launch,{1}{U},2,1,C
+Launch,{1}{U},2,1,C
+Malevolent Awakening,{1}{B}{B},3,1,U
+Menacing Ogre,{3}{R}{R},5,1,R
+Ogre Taskmaster,{3}{R},4,1,U
+Order of the White Shield,{W}{W},2,1,U
+Order of Yawgmoth,{2}{B}{B},4,1,U
+Ornithopter,{0},0,1,C
+Ornithopter,{0},0,1,C
+Path of Ancestry,,0,1,C
+Pegasus Charger,{2}{W},3,1,C
+Pestilence,{2}{B}{B},4,1,C
+Pestilence,{2}{B}{B},4,1,C
+Pit Trap,{2},2,1,U
+Planeswalker's Fury,{2}{R},3,1,R
+Pristine Talisman,{3},3,1,U
+Reclusive Wight,{3}{B},4,1,U
+River Boa,{1}{G},2,1,C
+Roterothopter,{1},1,1,C
+Rush of Knowledge,{4}{U},5,1,C
+Rush of Knowledge,{4}{U},5,1,C
+Sanguine Guard,{1}{B}{B},3,1,U
+Sanguine Guard,{1}{B}{B},3,1,U
+Sawtooth Loon,{2}{W}{U},4,1,U
+Sisay's Ring,{4},4,1,C
+Skittish Valesk,{6}{R},7,1,U
+Sol Grail,{3},3,1,U
+Spiketail Drake,{3}{U}{U},5,1,U
+Stern Judge,{2}{W},3,1,U
+Stupor,{2}{B},3,1,U
+Thallid,{G},1,1,C
+Tragic Slip,{B},1,1,C
+Trained Orgg,{6}{R},7,1,R
+Turnabout,{2}{U}{U},4,1,U
+Turnabout,{2}{U}{U},4,1,U
+Voidslime,{G}{U}{U},3,1,R
+Wall of Deceit,{1}{U},2,1,U
+Waylay,{2}{W},3,1,U
+"Alesha, Who Smiles at Death",{2}{R},3,1,S
+Cackling Fiend,{2}{B}{B},4,1,C
+Confessor,{W},1,1,C
+Confessor,{W},1,1,C
+Daru Encampment,,0,1,U
+Dauthi Mindripper,{3}{B},4,1,U
+Diplomatic Escort,{1}{U},2,1,U
+Divine Sacrament,{1}{W}{W},3,1,R
+Divine Sacrament,{1}{W}{W},3,1,R
+Dread Specter,{3}{B},4,1,U
+Evolving Wilds,,0,1,C
+Evolving Wilds,,0,1,C
+Evolving Wilds,,0,1,C
+Evolving Wilds,,0,1,C
+Evolving Wilds,,0,1,C
+Far Wanderings,{2}{G},3,1,C
+Fierce Empath,{2}{G},3,1,C
+Fierce Empath,{2}{G},3,1,C
+Gaea's Balance,{3}{G},4,1,U
+Geothermal Crevice,,0,1,C
+Geothermal Crevice,,0,1,C
+Harmonic Convergence,{2}{G},3,1,U
+Headhunter,{1}{B},2,1,U
+Hedron Archive,{4},4,1,U
+Lithatog,{1}{R}{G},3,1,U
+Mentor of the Meek,{2}{W},3,1,U
+Mogg Hollows,,0,1,U
+Nantuko Shade,{B}{B},2,1,R
+Night Soil,{G}{G},2,1,C
+Pain // Suffering,{B} // {3}{R},5,1,U
+Precursor Golem,{5},5,1,R
+Pretender's Claim,{1}{B},2,1,U
+Rakdos Guildgate,,0,1,C
+Ray of Command,{3}{U},4,1,C
+Ray of Command,{3}{U},4,1,C
+Ray of Command,{3}{U},4,1,C
+Ray of Command,{3}{U},4,1,C
+Ray of Command,{3}{U},4,1,C
+Ray of Command,{3}{U},4,1,C
+River of Tears,,0,1,R
+School of the Unseen,,0,1,U
+Secret Plans,{G}{U},2,1,S
+Silent Attendant,{2}{W},3,1,C
+Song of Blood,{1}{R},2,1,C
+Song of Blood,{1}{R},2,1,C
+Soul Barrier,{2}{U},3,1,C
+"Tatyova, Benthic Druid",{3}{G}{U},5,1,U
+"Tatyova, Benthic Druid",{3}{G}{U},5,1,U
+Thornwind Faeries,{1}{U}{U},3,1,C
+Trap Runner,{2}{W}{W},4,1,U
+Vec Townships,,0,1,U
+Weatherseed Elf,{G},1,1,C
+Willbender,{1}{U},2,1,U
+Ashen Ghoul,{3}{B},4,1,U
+Ashen Ghoul,{3}{B},4,1,U
+Ashnod's Transmogrant,{1},1,1,C
+Awesome Presence,{U},1,1,C
+Azorius Chancery,,0,1,U
+Captain's Maneuver,{X}{R}{W},2,1,U
+Captain's Maneuver,{X}{R}{W},2,1,U
+Chain Lightning,{R},1,1,C
+Chain of Plasma,{1}{R},2,1,U
+Chain of Plasma,{1}{R},2,1,U
+Commander's Sphere,{3},3,1,C
+Diabolic Servitude,{3}{B},4,1,U
+Door to Nothingness,{5},5,1,R
+Emerald Charm,{G},1,1,C
+Enlistment Officer,{3}{W},4,1,U
+Enlistment Officer,{3}{W},4,1,U
+Fact or Fiction,{3}{U},4,1,U
+Fortitude,{1}{G},2,1,C
+Ghastly Remains,{B}{B}{B},3,1,R
+Ghastly Remains,{B}{B}{B},3,1,R
+Hell-Bent Raider,{1}{R}{R},3,1,R
+Hesitation,{1}{U},2,1,U
+Hesitation,{1}{U},2,1,U
+Hesitation,{1}{U},2,1,U
+Hesitation,{1}{U},2,1,U
+Hymn of Rebirth,{3}{G}{W},5,1,U
+Intangible Virtue,{1}{W},2,1,S
+Juntu Stakes,{2},2,1,R
+Keening Stone,{6},6,1,R
+Keening Stone,{6},6,1,R
+Keeper of the Light,{W}{W},2,1,U
+Key to the City,{2},2,1,R
+Key to the City,{2},2,1,R
+Mask of Intolerance,{2},2,1,R
+Mask of Intolerance,{2},2,1,R
+Mons's Goblin Raiders,{R},1,1,C
+"Muzzio, Visionary Architect",{1}{U}{U},3,1,M
+"Muzzio, Visionary Architect",{1}{U}{U},3,1,M
+Mycosynth Wellspring,{2},2,1,C
+Nullmage Advocate,{2}{G},3,1,C
+Orcish Healer,{R}{R},2,1,U
+Order of the White Shield,{W}{W},2,1,U
+Puffer Extract,{5},5,1,U
+Rakavolver,{2}{R},3,1,R
+Reality Ripple,{1}{U},2,1,C
+Reality Ripple,{1}{U},2,1,C
+Rootwater Depths,,0,1,U
+Ruby Leech,{1}{R},2,1,R
+Scald,{1}{R},2,1,U
+Scald,{1}{R},2,1,U
+Seer's Vision,{2}{U}{B},4,1,U
+Selfless Exorcist,{3}{W}{W},5,1,R
+Serene Offering,{1}{W},2,1,U
+Shivan Raptor,{2}{R},3,1,U
+"Slimefoot, the Stowaway",{1}{B}{G},3,1,S
+Soul Snare,{W},1,1,U
+Spined Fluke,{2}{B},3,1,U
+Spined Fluke,{2}{B},3,1,U
+Tahngarth's Rage,{R},1,1,U
+Temple of Malice,,0,1,R
+Voice of Grace,{3}{W},4,1,U
+Walking Sponge,{1}{U},2,1,U
+Wall of Bone,{2}{B},3,1,U
+Wall of Razors,{1}{R},2,1,U
+Animate Land,{G},1,1,U
+Arcum's Whistle,{3},3,1,U
+Auramancer,{2}{W},3,1,C
+Auramancer,{2}{W},3,1,C
+Auramancer,{2}{W},3,1,C
+Auramancer,{2}{W},3,1,C
+Betrayal,{U},1,1,C
+Bone Harvest,{2}{B},3,1,C
+Braidwood Sextant,{1},1,1,U
+Centaur Glade,{3}{G}{G},5,1,U
+Chromeshell Crab,{4}{U},5,1,R
+Clay Statue,{4},4,1,C
+Crookclaw Elder,{5}{U},6,1,U
+Crookclaw Elder,{5}{U},6,1,U
+Dragon Scales,{1}{W},2,1,C
+Dragon Scales,{1}{W},2,1,C
+Dreams of the Dead,{3}{U},4,1,U
+Enchantment Alteration,{U},1,1,U
+Enchantment Alteration,{U},1,1,U
+Floodgate,{3}{U},4,1,U
+Goblin Matron,{2}{R},3,1,C
+Goblin Matron,{2}{R},3,1,C
+Goblin Scouts,{3}{R}{R},5,1,U
+Goblin Scouts,{3}{R}{R},5,1,U
+Indomitable Archangel,{2}{W}{W},4,1,M
+Joven,{3}{R}{R},5,1,C
+Keeper of the Beasts,{G}{G},2,1,U
+Kjeldoran Frostbeast,{3}{G}{W},5,1,U
+"Kudo, King Among Bears",{G}{W},2,1,R
+Liquimetal Coating,{2},2,1,U
+Mana Leech,{2}{B},3,1,U
+Mindleech Mass,{5}{U}{B}{B},8,1,R
+Mindleech Mass,{5}{U}{B}{B},8,1,R
+Multani's Acolyte,{G}{G},2,1,C
+Nameless One,{3}{U},4,1,U
+Nameless One,{3}{U},4,1,U
+Nantuko Monastery,,0,1,U
+Nesting Grounds,,0,1,U
+Nesting Grounds,,0,1,U
+Norwood Ranger,{G},1,1,C
+Phantom Warrior,{1}{U}{U},3,1,U
+Phantom Warrior,{1}{U}{U},3,1,U
+Raven Familiar,{2}{U},3,1,U
+Sealed Fate,{X}{U}{B},2,1,U
+Sphinx's Revelation,{X}{W}{U}{U},3,1,M
+Steam Blast,{2}{R},3,1,U
+Steel Hellkite,{6},6,1,R
+Terisiare's Devastation,{X}{2}{B}{B},4,1,R
+Think Tank,{2}{U},3,1,U
+Transmogrifying Licid,{3},3,1,U
+Volcanic Geyser,{X}{R}{R},2,1,U
+Wax // Wane,{G} // {W},2,1,U
+Wizards' School,,0,1,U
+Absorb,{W}{U}{U},3,1,R
+Archghoul of Thraben,{2}{B},3,1,U
+Blazing Archon,{6}{W}{W}{W},9,1,R
+Bloodline Shaman,{1}{G},2,1,U
+Boomerang,{U}{U},2,1,C
+Bravado,{1}{R},2,1,C
+Bravado,{1}{R},2,1,C
+Bravado,{1}{R},2,1,C
+Bravado,{1}{R},2,1,C
+Congregate,{3}{W},4,1,C
+Divine Transformation,{2}{W}{W},4,1,U
+Dreadbore,{B}{R},2,1,R
+Elvish Pioneer,{G},1,1,C
+Elvish Pioneer,{G},1,1,C
+Elvish Pioneer,{G},1,1,C
+Eron the Relentless,{3}{R}{R},5,1,S
+Giant Trap Door Spider,{1}{R}{G},3,1,U
+Gigantoplasm,{3}{U},4,1,R
+Hobble,{2}{W},3,1,C
+Killing Wave,{X}{B},1,1,U
+Lone Wolf,{2}{G},3,1,U
+Memory Deluge,{2}{U}{U},4,1,R
+Mind Bomb,{U},1,1,U
+Mind Bomb,{U},1,1,U
+Mind Bomb,{U},1,1,U
+Mind Bomb,{U},1,1,U
+Mossfire Egg,{1},1,1,U
+Mountain,,0,1,C
+Mountain Goat,{R},1,1,C
+Oath of Scholars,{3}{U},4,1,R
+Oath of Scholars,{3}{U},4,1,R
+Possessed Nomad,{2}{W}{W},4,1,R
+Private Research,{U},1,1,U
+Private Research,{U},1,1,U
+Ravenous Rats,{1}{B},2,1,C
+Reckless Abandon,{R},1,1,C
+Reckless Abandon,{R},1,1,C
+Reckless Abandon,{R},1,1,C
+Reckless Abandon,{R},1,1,C
+Rith's Charm,{R}{G}{W},3,1,U
+Rune of Protection: Red,{1}{W},2,1,C
+Shimmer Dragon,{4}{U}{U},6,1,R
+Shivan Harvest,{1}{R},2,1,U
+Shock,{R},1,1,C
+Soldevi Machinist,{1}{U},2,1,U
+Souldrinker,{3}{B},4,1,U
+Temple of Epiphany,,0,1,R
+Touch of Vitae,{2}{G},3,1,U
+Trickery Charm,{U},1,1,C
+Trygon Predator,{1}{G}{U},3,1,S
+Wirewood Herald,{1}{G},2,1,C
+Yavimaya Elder,{1}{G}{G},3,1,C
+Yavimaya Elder,{1}{G}{G},3,1,C
+Yavimaya Elder,{1}{G}{G},3,1,C
+Yavimaya Elder,{1}{G}{G},3,1,C
+Aleatory,{1}{R},2,1,U
+Anavolver,{3}{G},4,1,R
+Avenger en-Dal,{1}{W},2,1,R
+Cackling Counterpart,{1}{U}{U},3,1,R
+Ceta Sanctuary,{2}{U},3,1,U
+Dermoplasm,{2}{U},3,1,R
+Diligent Farmhand,{G},1,1,C
+Diligent Farmhand,{G},1,1,C
+Emblazoned Golem,{2},2,1,U
+Encroach,{B},1,1,U
+Encroach,{B},1,1,U
+Fertile Ground,{1}{G},2,1,C
+Fling,{1}{R},2,1,C
+Fling,{1}{R},2,1,C
+Fling,{1}{R},2,1,C
+Fling,{1}{R},2,1,C
+Fling,{1}{R},2,1,C
+Fling,{1}{R},2,1,C
+Gamekeeper,{3}{G},4,1,U
+Goblin Kites,{1}{R},2,1,U
+Goblin War Drums,{2}{R},3,1,C
+Heightened Awareness,{3}{U}{U},5,1,R
+Hidden Ancients,{1}{G},2,1,U
+Invigorate,{2}{G},3,1,C
+Invigorate,{2}{G},3,1,C
+Invigorate,{2}{G},3,1,C
+Invigorate,{2}{G},3,1,C
+Krosan Warchief,{2}{G},3,1,U
+Lab Rats,{B},1,1,C
+Monk Realist,{1}{W},2,1,C
+Mundungu,{1}{U}{B},3,1,U
+Puppeteer,{2}{U},3,1,U
+Rain of Tears,{1}{B}{B},3,1,U
+Riptide Shapeshifter,{3}{U}{U},5,1,U
+Riptide Shapeshifter,{3}{U}{U},5,1,U
+Scattershot,{2}{R},3,1,C
+Scattershot,{2}{R},3,1,C
+Scattershot,{2}{R},3,1,C
+Scattershot,{2}{R},3,1,C
+Skullcrack,{1}{R},2,1,U
+Soul-Guide Lantern,{1},1,1,U
+Soul-Guide Lantern,{1},1,1,U
+Soul-Guide Lantern,{1},1,1,U
+Soul-Guide Lantern,{1},1,1,U
+Swamp,,0,1,C
+Swamp,,0,1,C
+Tolsimir Wolfblood,{4}{G}{W},6,1,R
+Vodalian Illusionist,{2}{U},3,1,U
+Whirlpool Rider,{1}{U},2,1,C
+Acidic Slime,{3}{G}{G},5,1,R
+Ancestral Memories,{2}{U}{U}{U},5,1,R
+Axelrod Gunnarson,{4}{B}{B}{R}{R},8,1,R
+Blacksmith's Skill,{W},1,1,C
+Blacksmith's Skill,{W},1,1,C
+Blacksmith's Skill,{W},1,1,C
+Blacksmith's Skill,{W},1,1,C
+Breeding Pit,{3}{B},4,1,U
+Cabal Archon,{2}{B},3,1,U
+Cauldron Dance,{4}{B}{R},6,1,U
+Chain of Acid,{3}{G},4,1,U
+Chaoslace,{R},1,1,R
+Deja Vu,{2}{U},3,1,C
+Digsite Engineer,{2}{W},3,1,R
+Digsite Engineer,{2}{W},3,1,R
+Digsite Engineer,{2}{W},3,1,R
+Disrupt,{U},1,1,C
+Disruptive Student,{2}{U},3,1,C
+Douse,{2}{U},3,1,U
+Duplicity,{3}{U}{U},5,1,R
+Duplicity,{3}{U}{U},5,1,R
+Energy Flux,{2}{U},3,1,U
+Ethersworn Adjudicator,{4}{U},5,1,M
+Fiery Temper,{1}{R}{R},3,1,C
+Final Punishment,{3}{B}{B},5,1,R
+Forest,,0,1,C
+Funeral Charm,{B},1,1,C
+Funeral Charm,{B},1,1,C
+Funeral Charm,{B},1,1,C
+Funeral Charm,{B},1,1,C
+Gempalm Polluter,{5}{B},6,1,C
+Gempalm Polluter,{5}{B},6,1,C
+Gempalm Polluter,{5}{B},6,1,C
+Goblin Digging Team,{R},1,1,C
+Herald of Anguish,{5}{B}{B},7,1,M
+Hidden Horror,{1}{B}{B},3,1,U
+Intervene,{U},1,1,C
+Jhoira's Toolbox,{2},2,1,U
+King of the Pride,{2}{W},3,1,U
+Kjeldoran Royal Guard,{3}{W}{W},5,1,R
+Lashknife Barrier,{2}{W},3,1,U
+Legacy Weapon,{7},7,1,M
+Magnigoth Treefolk,{4}{G},5,1,R
+Master Healer,{4}{W},5,1,R
+Monk Idealist,{2}{W},3,1,U
+Monk Idealist,{2}{W},3,1,U
+Monoskelion,{2},2,1,U
+Monoskelion,{2},2,1,U
+Mountain,,0,1,C
+Nantuko Vigilante,{3}{G},4,1,C
+Peace Talks,{1}{W},2,1,U
+Phyrexian Rager,{2}{B},3,1,C
+Phyrexian Rager,{2}{B},3,1,C
+Phyrexian Rager,{2}{B},3,1,C
+Plains,,0,1,C
+Powerstone Minefield,{2}{R}{W},4,1,R
+Psychic Theft,{1}{U},2,1,R
+Ramosian Captain,{1}{W}{W},3,1,U
+Ray of Command,{3}{U},4,1,C
+Ray of Command,{3}{U},4,1,C
+Riptide Mangler,{1}{U},2,1,R
+Riptide Mangler,{1}{U},2,1,R
+Rofellos's Gift,{G},1,1,C
+Rofellos's Gift,{G},1,1,C
+Rofellos's Gift,{G},1,1,C
+Runechanter's Pike,{2},2,1,R
+Shrouded Serpent,{4}{U}{U}{U},7,1,R
+Siege-Gang Commander,{3}{R}{R},5,1,R
+Simulacrum,{1}{B},2,1,U
+Swamp,,0,1,C
+Telekinetic Bonds,{2}{U}{U}{U},5,1,R
+Thalakos Lowlands,,0,1,U
+Theft of Dreams,{2}{U},3,1,C
+Theft of Dreams,{2}{U},3,1,C
+"Traxos, Scourge of Kroog",{4},4,1,R
+Tribal Golem,{6},6,1,R
+Tribal Golem,{6},6,1,R
+Unstable Hulk,{1}{R}{R},3,1,R
+Unstable Hulk,{1}{R}{R},3,1,R
+Veiled Sentry,{U},1,1,U
+Veiled Sentry,{U},1,1,U
+Veiled Sentry,{U},1,1,U
+Veiled Sentry,{U},1,1,U
+Vendetta,{B},1,1,C
+Werebear,{1}{G},2,1,C
+Werebear,{1}{G},2,1,C
+Werebear,{1}{G},2,1,C
+Werebear,{1}{G},2,1,C
+Yavimaya Granger,{2}{G},3,1,C
+Yawgmoth's Edict,{1}{B},2,1,U
+Archery Training,{W},1,1,U
+Cho-Manno's Blessing,{W}{W},2,1,C
+Cho-Manno's Blessing,{W}{W},2,1,C
+Cho-Manno's Blessing,{W}{W},2,1,C
+Cho-Manno's Blessing,{W}{W},2,1,C
+Cinder Marsh,,0,1,U
+Cinder Marsh,,0,1,U
+Endless Sands,,0,1,R
+Flock of Rabid Sheep,{X}{G}{G},2,1,U
+Force Bubble,{2}{W}{W},4,1,R
+Gustcloak Savior,{4}{W},5,1,R
+Hexavus,{6},6,1,R
+Hidden Spider,{G},1,1,C
+Keeper of the Dead,{B}{B},2,1,U
+Mountain,,0,1,C
+Overgrowth,{2}{G},3,1,C
+Razorfin Hunter,{U}{R},2,1,C
+Reaping the Rewards,{W},1,1,C
+Reborn Hero,{2}{W},3,1,R
+Remote Isle,,0,1,C
+Shivan Dragon,{4}{R}{R},6,1,R
+Shivan Dragon,{4}{R}{R},6,1,R
+Sword of the Meek,{2},2,1,R
+"Tasigur, the Golden Fang",{5}{B},6,1,S
+Thieving Magpie,{2}{U}{U},4,1,U
+Thieving Magpie,{2}{U}{U},4,1,U
+Thunderscape Battlemage,{2}{R},3,1,U
+Vexing Beetle,{4}{G},5,1,R
+Volrath's Motion Sensor,{B},1,1,U
+Waterspout Elemental,{3}{U}{U},5,1,R
+Whipcorder,{W}{W},2,1,U
+Barl's Cage,{4},4,1,R
+Corrupt Official,{4}{B},5,1,R
+Exhaustion,{2}{U},3,1,U
+Exhaustion,{2}{U},3,1,U
+Exhaustion,{2}{U},3,1,U
+Exhaustion,{2}{U},3,1,U
+Exoskeletal Armor,{1}{G},2,1,U
+Far Wanderings,{2}{G},3,1,C
+Far Wanderings,{2}{G},3,1,C
+Far Wanderings,{2}{G},3,1,C
+Fleeting Image,{2}{U},3,1,R
+Forest,,0,1,C
+Forest,,0,1,C
+Forest,,0,1,C
+Juxtapose,{3}{U},4,1,R
+Lightning Axe,{R},1,1,U
+Merfolk Looter,{1}{U},2,1,U
+Mind Games,{U},1,1,C
+Mistform Ultimus,{3}{U},4,1,S
+Moonlit Wake,{2}{W},3,1,U
+Multani's Presence,{G},1,1,U
+Nested Shambler,{B},1,1,C
+Ornithopter,{0},0,1,U
+Sliptide Serpent,{4}{U}{U},6,1,R
+Sliptide Serpent,{4}{U}{U},6,1,R
+Sphinx's Revelation,{X}{W}{U}{U},3,1,R
+Spinal Embrace,{3}{U}{U}{B},6,1,R
+Spurnmage Advocate,{W},1,1,U
+Tephraderm,{4}{R},5,1,R
+Terramorphic Expanse,,0,1,C
+Terramorphic Expanse,,0,1,C
+Terramorphic Expanse,,0,1,C
+Terramorphic Expanse,,0,1,C
+Terramorphic Expanse,,0,1,C
+Waterfront Bouncer,{1}{U},2,1,C
+Arcanis the Omnipotent,{3}{U}{U}{U},6,1,R
+Ashnod the Uncaring,{2}{U}{B}{R},5,1,M
+Breakthrough,{X}{U},1,1,U
+Breakthrough,{X}{U},1,1,U
+Forest,,0,1,C
+Goblins of the Flarg,{R},1,1,C
+Grinning Totem,{4},4,1,S
+Huntmaster of the Fells // Ravager of the Fells,{2}{R}{G},4,1,R
+Illusionary Terrain,{U}{U},2,1,U
+Island,,0,1,C
+Jumbo Imp,{2}{B},3,1,U
+Lilting Refrain,{1}{U},2,1,U
+Mercenary Informer,{2}{W},3,1,R
+Mistform Ultimus,{3}{U},4,1,R
+Mistform Ultimus,{3}{U},4,1,R
+Plains,,0,1,C
+Plains,,0,1,C
+Rebuild,{2}{U},3,1,U
+Reveille Squad,{2}{W}{W},4,1,U
+Sentinel,{4},4,1,R
+Strands of Night,{2}{B}{B},4,1,U
+Tempting Licid,{2}{G},3,1,U
+Vizzerdrix,{6}{U},7,1,R
+Yawgmoth's Edict,{1}{B},2,1,U
+Animal Boneyard,{2}{W},3,1,U
+Call of the Wild,{2}{G}{G},4,1,R
+Chatterstorm,{1}{G},2,1,C
+Chatterstorm,{1}{G},2,1,C
+Chatterstorm,{1}{G},2,1,C
+Chatterstorm,{1}{G},2,1,C
+Chatterstorm,{1}{G},2,1,C
+Checks and Balances,{2}{U},3,1,U
+Crumbling Necropolis,,0,1,U
+Delif's Cone,{0},0,1,C
+Fallen Angel,{3}{B}{B},5,1,R
+Fool's Tome,{4},4,1,R
+Metallic Sliver,{1},1,1,C
+Mortify,{1}{W}{B},3,1,S
+Mountain,,0,1,C
+Personal Incarnation,{3}{W}{W}{W},6,1,R
+Recoil,{1}{U}{B},3,1,U
+Sabertooth Nishoba,{4}{G}{W},6,1,R
+Samite Sanctuary,{2}{W},3,1,R
+Steal Artifact,{2}{U}{U},4,1,U
+Stupor,{2}{B},3,1,S
+Suffocating Blast,{1}{U}{U}{R},4,1,R
+"Tawnos, Solemn Survivor",{1}{U},2,1,M
+Thorn of Amethyst,{2},2,1,R
+Tidal Bore,{1}{U},2,1,C
+Tidal Bore,{1}{U},2,1,C
+Treacherous Link,{1}{B},2,1,U
+Treefolk Seedlings,{2}{G},3,1,U
+Unifying Theory,{1}{U},2,1,R
+Vine Trellis,{1}{G},2,1,C
+Wedding Announcement // Wedding Festivity,,3,1,R
+Akroma's Blessing,{2}{W},3,1,U
+"Alela, Artful Provocateur",{1}{W}{U}{B},4,1,M
+Cabal Shrine,{1}{B}{B},3,1,R
+Cloak of Mists,{1}{U},2,1,C
+Cloak of Mists,{1}{U},2,1,C
+Essence Vortex,{1}{U}{B},3,1,U
+Light of Day,{3}{W},4,1,U
+Lightning Surge,{3}{R}{R},5,1,R
+Lightning Surge,{3}{R}{R},5,1,R
+Mind Harness,{U},1,1,U
+Mogg Sentry,{R},1,1,R
+Mountain,,0,1,C
+Nantuko Blightcutter,{2}{G},3,1,R
+Parallax Inhibitor,{2},2,1,R
+Pestilence,{2}{B}{B},4,1,C
+Revered Unicorn,{1}{W},2,1,U
+Rhystic Cave,,0,1,U
+Stand or Fall,{3}{R},4,1,R
+Stand or Fall,{3}{R},4,1,R
+Task Mage Assembly,{2}{R},3,1,R
+Voice of All,{2}{W}{W},4,1,U
+Channel,{G}{G},2,1,U
+Common Courtesy,{2}{U}{U},4,1,U
+Crippling Fear,{2}{B}{B},4,1,R
+Dread of Night,{B},1,1,U
+Forest,,0,1,C
+Fountain of Cho,,0,1,U
+Fountain of Cho,,0,1,U
+Gerrymandering,{2}{G},3,1,U
+Ice Floe,,0,1,U
+Impatience,{2}{R},3,1,R
+Last Rites,{2}{B},3,1,C
+Millstone,{2},2,1,R
+Mindslicer,{2}{B}{B},4,1,R
+Phantom Nantuko,{2}{G},3,1,R
+Phyrexian Splicer,{2},2,1,U
+Planar Overlay,{2}{U},3,1,R
+Spore Flower,{G}{G},2,1,U
+Tidehollow Sculler,{W}{B},2,1,S
+Vibrating Sphere,{4},4,1,R
+Vibrating Sphere,{4},4,1,R
+Amber Prison,{4},4,1,R
+Angel of Retribution,{6}{W},7,1,R
+Angel of Retribution,{6}{W},7,1,R
+Arboreal Grazer,{G},1,1,C
+Bloated Toad,{2}{G},3,1,U
+Bone Shards,{B},1,1,C
+Bone Shards,{B},1,1,C
+Bone Shards,{B},1,1,C
+Broken Fall,{2}{G},3,1,C
+Curfew,{U},1,1,C
+Curfew,{U},1,1,C
+Curfew,{U},1,1,C
+Forest,,0,1,C
+Forest,,0,1,C
+Forest,,0,1,C
+Forest,,0,1,C
+Forest,,0,1,C
+Forest,,0,1,C
+Forest,,0,1,C
+Havoc Demon,{5}{B}{B},7,1,R
+Island,,0,1,C
+Island,,0,1,C
+Mystic Crusader,{1}{W}{W},3,1,R
+Persuasion,{3}{U}{U},5,1,R
+Prismatic Boon,{X}{W}{U},2,1,U
+Spatula of the Ages,{4},4,1,U
+Stitch in Time,{1}{U}{R},3,1,R
+Stitch in Time,{1}{U}{R},3,1,R
+Undertaker,{1}{B},2,1,C
+Vile Requiem,{2}{B}{B},4,1,U
+Bedlam Reveler,{6}{R}{R},8,1,S
+Debt to the Deathless,{X}{W}{W}{B}{B},4,1,U
+Desperate Research,{1}{B},2,1,R
+Exquisite Firecraft,{1}{R}{R},3,1,S
+Eye of Yawgmoth,{3},3,1,R
+Flametongue Kavu,{3}{R},4,1,U
+Goblin Charbelcher,{4},4,1,R
+Goblin Charbelcher,{4},4,1,R
+Harsh Judgment,{2}{W}{W},4,1,R
+Legacy's Allure,{U}{U},2,1,U
+Levitation,{2}{U}{U},4,1,U
+Longbow Archer,{W}{W},2,1,U
+Masked Gorgon,{4}{B},5,1,R
+Masked Gorgon,{4}{B},5,1,R
+"Mishra, Eminent One",{2}{U}{B}{R},5,1,M
+"Mishra, Eminent One",{2}{U}{B}{R},5,1,M
+Pallimud,{2}{R},3,1,R
+Pegasus Stampede,{1}{W},2,1,U
+Pestilence Rats,{2}{B},3,1,C
+Pestilence Rats,{2}{B},3,1,C
+Pestilence Rats,{2}{B},3,1,C
+Plains,,0,1,C
+Plains,,0,1,C
+Planeswalker's Mirth,{2}{W},3,1,R
+Step Through,{3}{U}{U},5,1,C
+Step Through,{3}{U}{U},5,1,C
+Sunscape Master,{2}{W}{W},4,1,R
+Alexi's Cloak,{1}{U},2,1,C
+Alexi's Cloak,{1}{U},2,1,C
+Baton of Morale,{2},2,1,U
+Baton of Morale,{2},2,1,U
+Baton of Morale,{2},2,1,U
+Baton of Morale,{2},2,1,U
+Bronze Calendar,{4},4,1,U
+Calibrated Blast,{2}{R},3,1,R
+Calibrated Blast,{2}{R},3,1,R
+Cantivore,{1}{W}{W},3,1,R
+Cephalid Inkshrouder,{2}{U},3,1,U
+Clay Pigeon,{3},3,1,U
+Day of the Dragons,{4}{U}{U}{U},7,1,R
+Exalted Angel,{4}{W}{W},6,1,R
+Krosan Wayfarer,{G},1,1,C
+Last Stand,{W}{U}{B}{R}{G},5,1,R
+Obsidian Acolyte,{1}{W},2,1,C
+Obsidian Acolyte,{1}{W},2,1,C
+Psychic Trance,{2}{U}{U},4,1,R
+Psychic Trance,{2}{U}{U},4,1,R
+Reclamation Sage,{2}{G},3,1,S
+Rishadan Brigand,{4}{U},5,1,R
+Rubinia Soulsinger,{2}{G}{W}{U},5,1,R
+Saber Ants,{3}{G},4,1,U
+Saber Ants,{3}{G},4,1,U
+Sacred Mesa,{2}{W},3,1,S
+Shivan Oasis,,0,1,U
+Somberwald Sage,{2}{G},3,1,U
+Squeeze,{3}{U},4,1,R
+Stalking Assassin,{1}{U}{B},3,1,R
+Zoologist,{3}{G},4,1,R
+Alaborn Musketeer,{1}{W},2,1,C
+Alaborn Musketeer,{1}{W},2,1,C
+An-Havva Constable,{1}{G}{G},3,1,R
+Ancient Spider,{2}{G}{W},4,1,R
+Aven Mindcensor,{2}{W},3,1,R
+Collapsing Borders,{3}{R},4,1,R
+Collapsing Borders,{3}{R},4,1,R
+Diamond Lion,{2},2,1,R
+Forest,,0,1,C
+Goblin Trenches,{1}{R}{W},3,1,R
+Kirtar's Wrath,{4}{W}{W},6,1,R
+Master of Etherium,{2}{U},3,1,R
+Master of Etherium,{2}{U},3,1,R
+Misinformation,{B},1,1,U
+Mudhole,{2}{R},3,1,R
+Pestilence,{2}{B}{B},4,1,C
+Pestilence,{2}{B}{B},4,1,C
+Planeswalker's Mischief,{2}{U},3,1,R
+Planeswalker's Mischief,{2}{U},3,1,R
+Planeswalker's Scorn,{2}{B},3,1,R
+Saproling Symbiosis,{3}{G},4,1,R
+Stormscape Master,{2}{U}{U},4,1,R
+Sunken Field,{1}{U},2,1,U
+Thopter Shop,{3},3,1,R
+Thopter Shop,{3},3,1,R
+Thran Foundry,{1},1,1,U
+Vengeful Dead,{3}{B},4,1,C
+Charm School,{2}{W},3,1,U
+Dragon Mage,{5}{R}{R},7,1,R
+Forest,,0,1,C
+Forget,{U}{U},2,1,R
+Foundry Inspector,{3},3,1,U
+Foundry Inspector,{3},3,1,U
+Legion Warboss,{2}{R},3,1,R
+Pure Reflection,{2}{W},3,1,R
+Rivalry,{2}{R},3,1,R
+Serra Angel,{3}{W}{W},5,1,R
+Sibilant Spirit,{5}{U},6,1,R
+Skirk Alarmist,{1}{R},2,1,R
+Soltari Visionary,{1}{W}{W},3,1,C
+Sunken Hollow,,0,1,R
+Sunstone,{3},3,1,U
+Well-Laid Plans,{2}{U},3,1,R
+Zealous Conscripts,{4}{R},5,1,S
+Angelic Renewal,{1}{W},2,1,C
+Angelic Renewal,{1}{W},2,1,C
+Angelic Renewal,{1}{W},2,1,C
+Clickslither,{1}{R}{R}{R},4,1,R
+Clickslither,{1}{R}{R}{R},4,1,R
+Daring Apprentice,{1}{U}{U},3,1,R
+Duress,{B},1,1,C
+Emperor Crocodile,{3}{G},4,1,R
+Emperor Crocodile,{3}{G},4,1,R
+Emperor Crocodile,{3}{G},4,1,R
+Emperor Crocodile,{3}{G},4,1,R
+Get a Life,{W},1,1,U
+Innocent Blood,{B},1,1,C
+Innocent Blood,{B},1,1,C
+Memory Lapse,{1}{U},2,1,C
+Memory Lapse,{1}{U},2,1,C
+Memory Lapse,{1}{U},2,1,C
+Memory Lapse,{1}{U},2,1,C
+Noble Panther,{1}{G}{W},3,1,R
+Quicksand,,0,1,U
+Quicksand,,0,1,U
+Saprazzan Bailiff,{3}{U}{U},5,1,R
+Shifty Doppelganger,{2}{U},3,1,R
+Shifty Doppelganger,{2}{U},3,1,R
+Suq'Ata Firewalker,{1}{U}{U},3,1,U
+Swamp,,0,1,C
+Swamp,,0,1,C
+Swamp,,0,1,C
+Abyssal Specter,{2}{B}{B},4,1,U
+Antagonism,{3}{R},4,1,R
+Blazing Rootwalla,{R},1,1,U
+Blazing Rootwalla,{R},1,1,U
+Blazing Rootwalla,{R},1,1,U
+Bottle Gnomes,{3},3,1,U
+Brainstone,{1},1,1,U
+Brainstone,{1},1,1,U
+Evolution Witness,{2}{G},3,1,C
+Game Preserve,{2}{G},3,1,R
+Gorilla Shaman,{R},1,1,C
+Greed,{3}{B},4,1,R
+Guttersnipe,{2}{R},3,1,U
+Island,,0,1,C
+Island,,0,1,C
+Mark of Fury,{R},1,1,C
+Mesa Enchantress,{1}{W}{W},3,1,U
+Natural Emergence,{2}{R}{G},4,1,R
+Scalpelexis,{4}{U},5,1,R
+Smoldering Crater,,0,1,C
+Sutured Ghoul,{4}{B}{B}{B},7,1,R
+The Hive,{5},5,1,R
+Vigilant Martyr,{W},1,1,U
+Anger of the Gods,{1}{R}{R},3,1,S
+Austere Command,{4}{W}{W},6,1,R
+Battle Screech,{2}{W}{W},4,1,U
+Blighted Woodland,,0,1,S
+Blighted Woodland,,0,1,S
+Goblin Grenade,{R},1,1,C
+Island,,0,1,C
+Magnetic Mountain,{1}{R}{R},3,1,R
+Mask of the Mimic,{U},1,1,U
+Mist of Stagnation,{3}{U}{U},5,1,R
+Mist of Stagnation,{3}{U}{U},5,1,R
+Overrun,{2}{G}{G}{G},5,1,U
+Presence of the Master,{3}{W},4,1,U
+Presence of the Master,{3}{W},4,1,U
+Rowen,{2}{G}{G},4,1,R
+Skyshroud Ranger,{G},1,1,C
+Swamp,,0,1,C
+Swamp,,0,1,C
+Sword of the Paruns,{4},4,1,R
+Sword of the Paruns,{4},4,1,R
+Thing in the Ice // Awoken Horror,{1}{U},2,1,R
+Voldaren Epicure,{R},1,1,C
+Voldaren Epicure,{R},1,1,C
+Volrath's Laboratory,{5},5,1,R
+Wood Elves,{2}{G},3,1,C
+Anthroplasm,{2}{U}{U},4,1,R
+Instigator,{1}{B},2,1,R
+Island,,0,1,C
+Lavaborn Muse,{3}{R},4,1,R
+Mountain,,0,1,C
+Pale Moon,{1}{U},2,1,R
+Royal Assassin,{1}{B}{B},3,1,R
+Thallid,{G},1,1,S
+Thallid,{G},1,1,S
+Torture Chamber,{3},3,1,R
+Traverse the Ulvenwald,{G},1,1,R
+Unholy Heat,{R},1,1,C
+"Urza, Chief Artificer",{3}{W}{U}{B},6,1,M
+Abyssal Hunter,{3}{B},4,1,R
+Cranial Plating,{2},2,1,C
+Cranial Plating,{2},2,1,C
+Cranial Plating,{2},2,1,C
+Cranial Plating,{2},2,1,C
+Desolation Giant,{2}{R}{R},4,1,S
+Entrails Feaster,{B},1,1,R
+Ice Floe,,0,1,U
+Island,,0,1,C
+Island,,0,1,C
+Island,,0,1,C
+Llanowar Elves,{G},1,1,C
+Memory Lapse,{1}{U},2,1,C
+Memory Lapse,{1}{U},2,1,C
+Necrogoyf,{3}{B}{B},5,1,R
+Pentagram of the Ages,{4},4,1,R
+Rith's Grove,,0,1,U
+Wood Elves,{2}{G},3,1,C
+Echo Chamber,{4},4,1,R
+Goblin Burrows,,0,1,U
+Goblin Snowman,{3}{R},4,1,S
+Imaginary Pet,{1}{U},2,1,R
+Keldon Twilight,{1}{B}{R},3,1,R
+Keldon Twilight,{1}{B}{R},3,1,R
+"Lavinia, Foil to Conspiracy",{1}{W/U}{W/U},3,1,R
+Memory Lapse,{1}{U},2,1,C
+Memory Lapse,{1}{U},2,1,C
+Mercadian Bazaar,,0,1,U
+Nimble Mongoose,{G},1,1,U
+Nimble Mongoose,{G},1,1,U
+Nimble Mongoose,{G},1,1,U
+Nimble Mongoose,{G},1,1,U
+Soulgorger Orgg,{3}{R}{R},5,1,U
+Soulgorger Orgg,{3}{R}{R},5,1,U
+Spirit Link,{W},1,1,U
+Strands of Night,{2}{B}{B},4,1,U
+Sunken Hope,{3}{U}{U},5,1,R
+Thran Golem,{5},5,1,U
+Thran Golem,{5},5,1,U
+Uncle Istvan,{1}{B}{B}{B},4,1,S
+Cryptic Gateway,{5},5,1,R
+Disdainful Stroke,{1}{U},2,1,S
+Forest,,0,1,C
+Ichor Wellspring,{2},2,1,U
+Mountain,,0,1,C
+Null Elemental Blast,{C},1,1,U
+Tek,{5},5,1,R
+"Alexi, Zephyr Mage",{3}{U}{U},5,1,R
+Avalanche Riders,{3}{R},4,1,U
+Breaking Point,{1}{R}{R},3,1,R
+Decree of Savagery,{7}{G}{G},9,1,R
+Forest,,0,1,C
+Glyph of Destruction,{R},1,1,C
+Golgari Thug,{1}{B},2,1,U
+Hollow Specter,{1}{B}{B},3,1,R
+Ricochet,{R},1,1,U
+Righteous Cause,{3}{W}{W},5,1,U
+Rootwater Matriarch,{2}{U}{U},4,1,R
+Rushwood Grove,,0,1,U
+Rushwood Grove,,0,1,U
+Swamp,,0,1,C
+Swamp,,0,1,C
+Tariff,{1}{W},2,1,R
+Urza's Contact Lenses,{0},0,1,U
+Wood Sage,{G}{U},2,1,R
+Ancient Silverback,{4}{G}{G},6,1,R
+Ancient Silverback,{4}{G}{G},6,1,R
+Angelic Page,{1}{W},2,1,C
+Blaze,{X}{R},1,1,U
+Crosis's Charm,{U}{B}{R},3,1,U
+Dance of Many,{U}{U},2,1,R
+Desperate Gambit,{R},1,1,U
+Forest,,0,1,C
+Island,,0,1,C
+Mana Leak,{1}{U},2,1,C
+Opal Titan,{2}{W}{W},4,1,R
+"Pianna, Nomad Captain",{1}{W}{W},3,1,R
+Plains,,0,1,C
+Plains,,0,1,C
+Springleaf Drum,{1},1,1,U
+Springleaf Drum,{1},1,1,U
+Yawgmoth's Agenda,{3}{B}{B},5,1,R
+Young Pyromancer,{1}{R},2,1,S
+Young Pyromancer,{1}{R},2,1,S
+Dark Hatchling,{4}{B}{B},6,1,R
+Death Wish,{1}{B}{B},3,1,R
+Decaying Soil,{1}{B}{B},3,1,R
+Decaying Soil,{1}{B}{B},3,1,R
+Elite Archers,{5}{W},6,1,R
+Fyndhorn Elder,{2}{G},3,1,U
+Fyndhorn Elder,{2}{G},3,1,U
+Fyndhorn Elder,{2}{G},3,1,U
+Fyndhorn Elder,{2}{G},3,1,U
+Goblin Lookout,{1}{R},2,1,C
+Island,,0,1,C
+Jolted Awake,{W},1,1,C
+Jungle Basin,,0,1,U
+Kavu Monarch,{2}{R}{R},4,1,R
+Orim's Prayer,{1}{W}{W},3,1,U
+Samite Elder,{2}{W},3,1,R
+Spellbane Centaur,{2}{G},3,1,R
+Spore Frog,{G},1,1,C
+Spore Frog,{G},1,1,C
+Spore Frog,{G},1,1,C
+"Thalia, Heretic Cathar",{2}{W},3,1,R
+"Thalia, Heretic Cathar",{2}{W},3,1,R
+Archivist,{2}{U}{U},4,1,R
+Death Match,{3}{B},4,1,R
+Dormant Volcano,,0,1,U
+Dormant Volcano,,0,1,U
+Forest,,0,1,C
+"Kamahl, Fist of Krosa",{4}{G}{G},6,1,M
+Krosan Verge,,0,1,U
+Krosan Verge,,0,1,U
+Llanowar Elves,{G},1,1,C
+Massacre Girl,{3}{B}{B},5,1,R
+Memory Lapse,{1}{U},2,1,C
+Memory Lapse,{1}{U},2,1,C
+Memory Lapse,{1}{U},2,1,C
+Memory Lapse,{1}{U},2,1,C
+Mountain,,0,1,C
+Nomads en-Kor,{W},1,1,C
+Talon Sliver,{1}{W},2,1,C
+Territorial Kavu,{R}{G},2,1,R
+Xenic Poltergeist,{1}{B}{B},3,1,R
+Fade Away,{2}{U},3,1,C
+Fade Away,{2}{U},3,1,C
+Fade Away,{2}{U},3,1,C
+Fade Away,{2}{U},3,1,C
+Fade Away,{2}{U},3,1,C
+Fade Away,{2}{U},3,1,C
+Fade Away,{2}{U},3,1,C
+Fade Away,{2}{U},3,1,C
+Foster,{2}{G}{G},4,1,R
+Ice Cave,{3}{U}{U},5,1,R
+Parallax Nexus,{2}{B},3,1,R
+"Predator, Flagship",{5},5,1,R
+Psychosis Crawler,{5},5,1,R
+Safe Haven,,0,1,S
+Silent Specter,{4}{B}{B},6,1,R
+Uktabi Wildcats,{4}{G},5,1,R
+Uktabi Wildcats,{4}{G},5,1,R
+Witch Engine,{5}{B},6,1,R
+Dig Through Time,{6}{U}{U},8,1,R
+Goblin Matron,{2}{R},3,1,U
+Goldmire Bridge,,0,1,C
+Hinterland Harbor,,0,1,R
+Ichor Wellspring,{2},2,1,U
+Island,,0,1,C
+Razor Pendulum,{4},4,1,R
+Shadowmage Infiltrator,{1}{U}{B},3,1,S
+Shadowmage Infiltrator,{1}{U}{B},3,1,S
+Skeleton Scavengers,{2}{B},3,1,R
+Thopter Spy Network,{2}{U}{U},4,1,R
+Bloodshot Cyclops,{5}{R},6,1,R
+Darksteel Juggernaut,{5},5,1,R
+Urza's Ruinous Blast,{4}{W},5,1,R
+Urza's Ruinous Blast,{4}{W},5,1,R
+Wormfang Manta,{5}{U}{U},7,1,R
+Xenic Poltergeist,{1}{B}{B},3,1,R
+Blackmail,{B},1,1,U
+Blackmail,{B},1,1,U
+Blackmail,{B},1,1,U
+Blackmail,{B},1,1,U
+Dominate,{X}{1}{U}{U},3,1,U
+Elvish Soultiller,{3}{G}{G},5,1,R
+Elvish Soultiller,{3}{G}{G},5,1,R
+Immolation,{R},1,1,C
+Immolation,{R},1,1,C
+Island,,0,1,C
+Notorious Assassin,{3}{B},4,1,R
+Rogue's Passage,,0,1,U
+Thraben Inspector,{W},1,1,S
+Thraben Inspector,{W},1,1,S
+Thraben Inspector,{W},1,1,S
+Thraben Inspector,{W},1,1,S
+Vizzerdrix,{6}{U},7,1,R
+Winged Sliver,{1}{U},2,1,C
+Winged Sliver,{1}{U},2,1,C
+Bloodshot Cyclops,{5}{R},6,1,R
+Fledgling Dragon,{2}{R}{R},4,1,R
+Forest,,0,1,R
+Forest,,0,1,C
+Freyalise's Winds,{2}{G}{G},4,1,R
+Goblin Chirurgeon,{R},1,1,C
+Inspiring Statuary,{3},3,1,R
+Inspiring Statuary,{3},3,1,R
+Island,,0,1,C
+Island,,0,1,C
+Island,,0,1,C
+Island,,0,1,C
+Island,,0,1,C
+Miss Demeanor,{3}{W},4,1,U
+Mob Justice,{1}{R},2,1,C
+Mountain,,0,1,C
+Opt,{U},1,1,C
+Opt,{U},1,1,C
+Ornithopter,{0},0,1,U
+Ornithopter,{0},0,1,U
+Portent,{U},1,1,C
+Pyrostatic Pillar,{1}{R},2,1,U
+Reaping the Graves,{2}{B},3,1,C
+Seaside Haven,,0,1,U
+Wall of Glare,{1}{W},2,1,C
+Aphetto Runecaster,{3}{U},4,1,U
+Forest,,0,1,C
+Mountain,,0,1,C
+Mountain,,0,1,C
+Snow-Covered Wastes,,0,1,U
+Snow-Covered Wastes,,0,1,U
+Temple of the False God,,0,1,U
+Worn Powerstone,{3},3,1,U
+Black Mana Battery,{4},4,1,R
+Body Snatcher,{2}{B}{B},4,1,R
+Darigaaz's Caldera,,0,1,U
+Eye for an Eye,{W}{W},2,1,R
+Forest,,0,1,C
+Smother,{1}{B},2,1,U
+Coral Atoll,,0,1,U
+Coral Atoll,,0,1,U
+Coral Atoll,,0,1,U
+Emberwilde Djinn,{2}{R}{R},4,1,R
+Goblin Goon,{3}{R},4,1,R
+Goblin Goon,{3}{R},4,1,R
+Tormod's Crypt,{0},0,1,U
+Curse of Marit Lage,{3}{R}{R},5,1,R
+Temporal Adept,{1}{U}{U},3,1,R
+Diabolic Vision,{U}{B},2,1,U
+Elemental Augury,{U}{B}{R},3,1,R
+Mercadian Atlas,{5},5,1,R
+Stronghold Gambit,{1}{R},2,1,R
+Tribal Forcemage,{1}{G},2,1,R
+Fog Bank,{1}{U},2,1,U
+Fog Bank,{1}{U},2,1,U
+Fog Bank,{1}{U},2,1,U
+Heedless One,{3}{G},4,1,U
+Infinite Hourglass,{4},4,1,R
+Phyrexian Rager,{2}{B},3,1,C
+Rath's Edge,,0,1,R
+Somnophore,{2}{U}{U},4,1,R
+Sway of Illusion,{1}{U},2,1,U
+Clifftop Retreat,,0,1,R
+Damping Engine,{4},4,1,R
+Grafted Skullcap,{4},4,1,R
+Mountain,,0,1,C
+Uktabi Wildcats,{4}{G},5,1,R
+Argothian Elder,{3}{G},4,1,U
+Bog Witch,{2}{B},3,1,C
+Brawn,{3}{G},4,1,U
+Corpse Harvester,{3}{B}{B},5,1,U
+Corpse Harvester,{3}{B}{B},5,1,U
+"Feather, the Redeemed",{R}{W}{W},3,1,S
+Breaking Wave,{2}{U}{U},4,1,R
+Dawn Elemental,{W}{W}{W}{W},4,1,R
+Intimidation,{2}{B}{B}{B},5,1,U
+Trade Secrets,{1}{U}{U},3,1,R
+Trade Secrets,{1}{U}{U},3,1,R
+Elvish Guidance,{2}{G},3,1,C
+Forest,,0,1,C
+Memory Lapse,{1}{U},2,1,C
+Memory Lapse,{1}{U},2,1,C
+Predatory Hunger,{G},1,1,C
+Sigil of the Empty Throne,{3}{W}{W},5,1,S
+Sigil of the Empty Throne,{3}{W}{W},5,1,S
+Defensive Formation,{W},1,1,U
+Defensive Formation,{W},1,1,U
+Defensive Formation,{W},1,1,U
+Marjhan,{5}{U}{U},7,1,R
+Victimize,{2}{B},3,1,U
+Chromatic Sphere,{1},1,1,U
+Forest,,0,1,C
+"Silas Renn, Seeker Adept",{1}{U}{B},3,1,M
+"Silas Renn, Seeker Adept",{1}{U}{B},3,1,M
+Telepathy,{U},1,1,U
+Telepathy,{U},1,1,U
+Handcuffs,{3}{B}{B},5,1,U
+Magnetic Web,{2},2,1,R
+Mistvault Bridge,,0,1,C
+Overtaker,{1}{U},2,1,R
+Quietus Spike,{3},3,1,R
+Quietus Spike,{3},3,1,R
+Soldevi Adnate,{1}{B},2,1,C
+Avatar of Will,{6}{U}{U},8,1,R
+"Liesa, Forgotten Archangel",{2}{W}{W}{B},5,1,R
+Mountain,,0,1,C
+Accumulated Knowledge,{1}{U},2,1,C
+Accumulated Knowledge,{1}{U},2,1,C
+Accumulated Knowledge,{1}{U},2,1,C
+Accumulated Knowledge,{1}{U},2,1,C
+Forest,,0,1,C
+Noxious Gearhulk,{4}{B}{B},6,1,M
+Pirate Ship,{4}{U},5,1,R
+Rhox,{4}{G}{G},6,1,R
+Rhox,{4}{G}{G},6,1,R
+Contested Cliffs,,0,1,R
+Envelop,{U},1,1,C
+Grafted Skullcap,{4},4,1,R
+Island,,0,1,C
+Lightning Cloud,{3}{R},4,1,R
+Mountain,,0,1,C
+Questing Phelddagrif,{1}{G}{W}{U},4,1,R
+Standard Bearer,{1}{W},2,1,C
+Standard Bearer,{1}{W},2,1,C
+Urza's Tower,,0,1,U
+Vhati il-Dal,{2}{B}{G},4,1,S
+Consuming Aberration,{3}{U}{B},5,1,S
+Consuming Aberration,{3}{U}{B},5,1,S
+Thermo-Alchemist,{1}{R},2,1,U
+Thermo-Alchemist,{1}{R},2,1,U
+Yotian Soldier,{3},3,1,C
+Goblin Game,{5}{R}{R},7,1,R
+Armadillo Cloak,{1}{G}{W},3,1,C
+Armadillo Cloak,{1}{G}{W},3,1,C
+Curfew,{U},1,1,C
+Dralnu's Crusade,{1}{B}{R},3,1,R
+Dralnu's Crusade,{1}{B}{R},3,1,R
+Elvish Ranger,{2}{G},3,1,C
+Etchings of the Chosen,{1}{W}{B},3,1,U
+Island,,0,1,C
+"Jolrael, Empress of Beasts",{3}{G}{G},5,1,S
+Mountain Valley,,0,1,U
+The Ultimate Nightmare of Wizards of the Coast(r) Customer Service,{X}{Y}{Z}{R}{R},2,1,U
+Dwarven Blastminer,{1}{R},2,1,U
+Forest,,0,1,C
+General Jarkeld,{3}{W},4,1,R
+Island,,0,1,C
+Spectral Guardian,{2}{W}{W},4,1,R
+Forest,,0,1,C
+Mountain,,0,1,C
+Quirion Ranger,{G},1,1,C
+Quirion Ranger,{G},1,1,C
+Gerrard's Verdict,{W}{B},2,1,U
+Shriekmaw,{4}{B},5,1,S
+Shriekmaw,{4}{B},5,1,S
+Shriekmaw,{4}{B},5,1,S
+Crooked Scales,{4},4,1,R
+Starke of Rath,{1}{R}{R},3,1,R
+Thrashing Wumpus,{3}{B}{B},5,1,R
+Umbilicus,{4},4,1,R
+Woodland Cemetery,,0,1,R
+Argivian Find,{W},1,1,U
+Squirrel Sovereign,{1}{G},2,1,U
+Squirrel Sovereign,{1}{G},2,1,U
+The Rack,{1},1,1,U
+Time Bomb,{4},4,1,R
+Field of Souls,{2}{W}{W},4,1,R
+Goblin Marshal,{4}{R}{R},6,1,R
+Birchlore Rangers,{G},1,1,C
+Birchlore Rangers,{G},1,1,C
+Blue Elemental Blast,{U},1,1,C
+Custody Battle,{1}{R},2,1,U
+Perilous Forays,{3}{G}{G},5,1,U
+Resurgent Belief,,0,1,R
+Ornithopter,{0},0,1,U
+Blind Seer,{2}{U}{U},4,1,R
+Goblin Rock Sled,{1}{R},2,1,C
+Mind Bend,{U},1,1,U
+Credit Voucher,{2},2,1,U
+Crypt Rats,{2}{B},3,1,C
+Acidic Soil,{2}{R},3,1,U
+Extinction,{4}{B},5,1,R
+Isolated Chapel,,0,1,R
+Tolarian Winds,{1}{U},2,1,C
+Aether Flash,{2}{R}{R},4,1,U
+Aether Flash,{2}{R}{R},4,1,U
+Megrim,{2}{B},3,1,U
+Nantuko Elder,{2}{G},3,1,U
+Sulfur Falls,,0,1,R
+"Talrand, Sky Summoner",{2}{U}{U},4,1,S
+"Talrand, Sky Summoner",{2}{U}{U},4,1,S
+War Tax,{2}{U},3,1,U
+War Tax,{2}{U},3,1,U
+Forbidden Crypt,{3}{B}{B},5,1,R
+"Sigarda, Host of Herons",{2}{G}{W}{W},5,1,M
+Wildfire,{4}{R}{R},6,1,R
+Instill Energy,{G},1,1,U
+Island,,0,1,C
+"Niv-Mizzet, the Firemind",{2}{U}{U}{R}{R},6,1,R
+Mulldrifter,{4}{U},5,1,S
+Mulldrifter,{4}{U},5,1,S
+Mulldrifter,{4}{U},5,1,S
+Plains,,0,1,C
+Plains,,0,1,C
+Plains,,0,1,C
+Contagion,{3}{B}{B},5,1,U
+Ichor Wellspring,{2},2,1,U
+Ichor Wellspring,{2},2,1,U
+Mageta the Lion,{3}{W}{W},5,1,R
+Mageta the Lion,{3}{W}{W},5,1,R
+Mageta the Lion,{3}{W}{W},5,1,R
+Mischievous Quanar,{4}{U},5,1,R
+Vitalize,{G},1,1,C
+Flaring Pain,{1}{R},2,1,C
+"Hanna, Ship's Navigator",{1}{W}{U},3,1,R
+Master of the Pearl Trident,{U}{U},2,1,S
+Rout,{3}{W}{W},5,1,R
+Rout,{3}{W}{W},5,1,R
+Timberwatch Elf,{2}{G},3,1,C
+Timberwatch Elf,{2}{G},3,1,C
+Timberwatch Elf,{2}{G},3,1,C
+Timberwatch Elf,{2}{G},3,1,C
+Verdant Succession,{4}{G},5,1,R
+Verdant Succession,{4}{G},5,1,R
+Angry Mob,{2}{W}{W},4,1,U
+Dread Wight,{3}{B}{B},5,1,R
+Immolation,{R},1,1,C
+Pearled Unicorn,{2}{W},3,1,C
+Planar Guide,{W},1,1,R
+Swamp,,0,1,C
+Amrou Kithkin,{W}{W},2,1,C
+Crystal Chimes,{3},3,1,U
+Crystal Chimes,{3},3,1,U
+Jinxed Idol,{2},2,1,R
+Karoo,,0,1,U
+Island,,0,1,C
+Island,,0,1,C
+Island,,0,1,C
+Island,,0,1,C
+Island,,0,1,C
+Keldon Necropolis,,0,1,R
+Forest,,0,1,C
+Forest,,0,1,C
+Forest,,0,1,C
+Salt Marsh,,0,1,U
+Songs of the Damned,{B},1,1,C
+Angel's Trumpet,{3},3,1,U
+Crosis's Catacombs,,0,1,U
+Earnest Fellowship,{1}{W},2,1,R
+Solemn Simulacrum,{4},4,1,S
+Wild Research,{2}{R},3,1,R
+Wild Research,{2}{R},3,1,R
+Island,,0,1,C
+Island,,0,1,C
+Magus of the Unseen,{1}{U},2,1,R
+Titania's Song,{3}{G},4,1,R
+Drift of Phantasms,{2}{U},3,1,C
+Drift of Phantasms,{2}{U},3,1,C
+Feldon of the Third Path,{1}{R}{R},3,1,S
+March of Progress,{2}{U},3,1,R
+March of Progress,{2}{U},3,1,R
+Disrupt,{U},1,1,U
+Prismatic Ending,{X}{W},1,1,U
+Teferi's Moat,{3}{W}{U},5,1,S
+Upwelling,{3}{G},4,1,R
+Phyrexian Walker,{0},0,1,C
+Phyrexian Walker,{0},0,1,C
+Phyrexian Walker,{0},0,1,C
+Sculpting Steel,{3},3,1,R
+Alter Reality,{1}{U},2,1,R
+Baleful Strix,{U}{B},2,1,R
+Forest,,0,1,C
+Keep Watch,{2}{U},3,1,C
+Keep Watch,{2}{U},3,1,C
+Minion of the Wastes,{3}{B}{B}{B},6,1,R
+Peregrine Drake,{4}{U},5,1,U
+Wheel of Torture,{3},3,1,R
+Island,,0,1,C
+Island,,0,1,C
+Forest,,0,1,C
+Mystic Confluence,{3}{U}{U},5,1,S
+Tsabo Tavoc,{5}{B}{R},7,1,R
+Adaptive Automaton,{3},3,1,R
+Delirium,{1}{B}{R},3,1,U
+Tainted Isle,,0,1,U
+Tawnos's Wand,{4},4,1,U
+Verdeloth the Ancient,{4}{G}{G},6,1,S
+Life // Death,{G} // {1}{B},3,1,U
+Overlaid Terrain,{2}{G}{G},4,1,R
+Vision Charm,{U},1,1,C
+Vision Charm,{U},1,1,C
+Vision Charm,{U},1,1,C
+Arcane Laboratory,{2}{U},3,1,U
+"Rayne, Academy Chancellor",{2}{U},3,1,R
+Future Sight,{2}{U}{U}{U},5,1,R
+Inevitable Betrayal,,0,1,R
+Treva's Ruins,,0,1,U
+Treva's Ruins,,0,1,U
+Treva's Ruins,,0,1,U
+Darkpact,{B}{B}{B},3,1,R
+Fyndhorn Elves,{G},1,1,C
+Primal Whisperer,{4}{G},5,1,R
+Whirlpool Warrior,{2}{U},3,1,R
+Icy Manipulator,{4},4,1,U
+Urza's Rage,{2}{R},3,1,R
+Worldgorger Dragon,{3}{R}{R}{R},6,1,R
+Heart Sliver,{1}{R},2,1,C
+Pashalik Mons,{2}{R},3,1,R
+Peer Pressure,{3}{U},4,1,R
+Riptide Entrancer,{1}{U}{U},3,1,R
+Risky Move,{3}{R}{R}{R},6,1,R
+Risky Move,{3}{R}{R}{R},6,1,R
+Strike It Rich,{R},1,1,U
+Urza's Tower,,0,1,C
+Urza's Tower,,0,1,C
+Ethereal Armor,{W},1,1,S
+Ethereal Armor,{W},1,1,S
+Ethereal Armor,{W},1,1,S
+Jabari's Influence,{3}{W}{W},5,1,R
+Phyrexian Tyranny,{U}{B}{R},3,1,R
+Slate of Ancestry,{4},4,1,R
+Clone,{3}{U},4,1,U
+Grand Melee,{3}{R},4,1,R
+Thopter Squadron,{5},5,1,R
+Destructive Flow,{B}{R}{G},3,1,R
+Destructive Flow,{B}{R}{G},3,1,R
+Tide Shaper,{U},1,1,U
+Tide Shaper,{U},1,1,U
+Ashes to Ashes,{1}{B}{B},3,1,C
+Glory,{3}{W}{W},5,1,R
+Plaguebearer,{1}{B},2,1,R
+Frantic Search,{2}{U},3,1,C
+Flickerwisp,{1}{W}{W},3,1,S
+Forest,,0,1,C
+Command Tower,,0,1,C
+Fireball,{X}{R},1,1,C
+Portcullis,{4},4,1,R
+Tidespout Tyrant,{5}{U}{U}{U},8,1,R
+Eternal Witness,{1}{G}{G},3,1,S
+Goblin Anarchomancer,{R}{G},2,1,C
+Veldt,,0,1,R
+Bad River,,0,1,U
+Cloud Cover,{2}{W}{U},4,1,R
+Exile,{2}{W},3,1,R
+Rogue's Passage,,0,1,U
+Zur's Weirding,{3}{U},4,1,R
+Caller of the Hunt,{2}{G},3,1,R
+Chaotic Goo,{2}{R}{R},4,1,R
+Farseek,{1}{G},2,1,S
+Farseek,{1}{G},2,1,S
+Farseek,{1}{G},2,1,S
+Farseek,{1}{G},2,1,S
+Rancor,{G},1,1,C
+Rancor,{G},1,1,C
+Rancor,{G},1,1,C
+Rancor,{G},1,1,C
+Dandan,{U}{U},2,1,C
+Dandan,{U}{U},2,1,C
+Dandan,{U}{U},2,1,C
+Swords to Plowshares,{W},1,1,U
+Belbe's Portal,{5},5,1,R
+Island,,0,1,C
+Sengir Vampire,{3}{B}{B},5,1,U
+Sunstrike Legionnaire,{1}{W},2,1,R
+Tsabo's Decree,{5}{B},6,1,R
+Blasted Landscape,,0,1,U
+Wellwisher,{1}{G},2,1,C
+Wellwisher,{1}{G},2,1,C
+Wellwisher,{1}{G},2,1,C
+Deadeye Navigator,{4}{U}{U},6,1,R
+Cursed Mirror,{2}{R},3,1,R
+Temur Battle Rage,{1}{R},2,1,S
+Carrionette,{1}{B},2,1,R
+Celestial Convergence,{2}{W}{W},4,1,R
+Ancient Ooze,{5}{G}{G},7,1,R
+Goblin War Strike,{R},1,1,C
+Goblin War Strike,{R},1,1,C
+Goblin War Strike,{R},1,1,C
+Goblin War Strike,{R},1,1,C
+Plague Spitter,{2}{B},3,1,U
+Rishkar's Expertise,{4}{G}{G},6,1,R
+Callous Oppressor,{1}{U}{U},3,1,R
+Stronghold Assassin,{1}{B}{B},3,1,R
+Mass Hysteria,{R},1,1,R
+Pulsemage Advocate,{2}{W},3,1,R
+Pulsemage Advocate,{2}{W},3,1,R
+Brightstone Ritual,{R},1,1,C
+Brightstone Ritual,{R},1,1,C
+Mizzix's Mastery,{3}{R},4,1,R
+Parallel Thoughts,{3}{U}{U},5,1,R
+Parallel Thoughts,{3}{U}{U},5,1,R
+Weird Harvest,{X}{G}{G},2,1,R
+Voidmage Prodigy,{U}{U},2,1,R
+Voidmage Prodigy,{U}{U},2,1,R
+Aetherize,{3}{U},4,1,U
+Mesmeric Fiend,{1}{B},2,1,C
+Second Harvest,{2}{G}{G},4,1,R
+Second Harvest,{2}{G}{G},4,1,R
+Spelljack,{3}{U}{U}{U},6,1,R
+Spelljack,{3}{U}{U}{U},6,1,R
+Tainted Peak,,0,1,U
+Dress Down,{1}{U},2,1,R
+Sunscape Familiar,{1}{W},2,1,C
+Verdeloth the Ancient,{4}{G}{G},6,1,R
+Ivory Mask,{2}{W}{W},4,1,R
+Saprazzan Heir,{1}{U},2,1,R
+Avatar of Might,{6}{G}{G},8,1,R
+Divine Presence,{2}{W},3,1,R
+Gravecrawler,{B},1,1,R
+Hypnotic Specter,{1}{B}{B},3,1,U
+Counterspell,{U}{U},2,1,C
+Counterspell,{U}{U},2,1,C
+Counterspell,{U}{U},2,1,C
+Counterspell,{U}{U},2,1,C
+Counterspell,{U}{U},2,1,C
+Counterspell,{U}{U},2,1,C
+Death Pits of Rath,{3}{B}{B},5,1,R
+Squee's Revenge,{1}{U}{R},3,1,U
+Squee's Revenge,{1}{U}{R},3,1,U
+Squee's Revenge,{1}{U}{R},3,1,U
+Vampire Hexmage,{B}{B},2,1,S
+Triangle of War,{1},1,1,R
+Cloud Pirates,{U},1,1,C
+Plains,,0,1,C
+Plains,,0,1,C
+Seeker of Skybreak,{1}{G},2,1,C
+Quirion Druid,{2}{G},3,1,R
+Quirion Druid,{2}{G},3,1,R
+Phyrexian Delver,{3}{B}{B},5,1,R
+Dandan,{U}{U},2,1,C
+Dandan,{U}{U},2,1,C
+Dandan,{U}{U},2,1,C
+Careful Study,{U},1,1,C
+Careful Study,{U},1,1,C
+Careful Study,{U},1,1,C
+Careful Study,{U},1,1,C
+Careful Study,{U},1,1,C
+Veteran Bodyguard,{3}{W}{W},5,1,R
+Skyship Weatherlight,{4},4,1,R
+Diplomatic Immunity,{1}{U},2,1,C
+Supreme Verdict,{1}{W}{W}{U},4,1,R
+Island,,0,1,C
+Muddle the Mixture,{U}{U},2,1,U
+Thran Turbine,{1},1,1,U
+Thwart,{2}{U}{U},4,1,U
+Counterspell,{U}{U},2,1,C
+Delver of Secrets // Insectile Aberration,{U},1,1,C
+Delver of Secrets // Insectile Aberration,{U},1,1,C
+Mishra's Helix,{5},5,1,R
+"Etali, Primal Storm",{4}{R}{R},6,1,S
+Guilty Conscience,{W},1,1,C
+Guilty Conscience,{W},1,1,C
+Spiritmonger,{3}{B}{G},5,1,R
+Mangara's Tome,{5},5,1,R
+Nature's Chosen,{G},1,1,U
+Monkey Cage,{5},5,1,R
+Dual Nature,{4}{G}{G},6,1,R
+Mine Layer,{3}{R},4,1,R
+Copper Gnomes,{2},2,1,R
+Dragon Arch,{5},5,1,U
+Dragon Arch,{5},5,1,U
+Pyrotechnics,{4}{R},5,1,U
+Guiltfeeder,{3}{B}{B},5,1,R
+Lightning Bolt,{R},1,1,C
+Salt Flats,,0,1,R
+Polymorph,{3}{U},4,1,R
+Daru Warchief,{2}{W}{W},4,1,U
+Daru Warchief,{2}{W}{W},4,1,U
+Snow-Covered Forest,,0,1,C
+Thespian's Stage,,0,1,R
+Intrepid Hero,{2}{W},3,1,R
+Overmaster,{R},1,1,R
+Rootwater Thief,{1}{U},2,1,R
+Evolutionary Leap,{1}{G},2,1,S
+Evolutionary Leap,{1}{G},2,1,S
+Soothsaying,{U},1,1,U
+Planar Portal,{6},6,1,R
+Primal Order,{2}{G}{G},4,1,R
+Equilibrium,{1}{U}{U},3,1,R
+Aether Barrier,{2}{U},3,1,R
+Tectonic Instability,{2}{R},3,1,R
+Tireless Provisioner,{2}{G},3,1,U
+Annul,{U},1,1,C
+Buried Alive,{2}{B},3,1,U
+Buried Alive,{2}{B},3,1,U
+Garth One-Eye,{W}{U}{B}{R}{G},5,1,M
+Last Laugh,{2}{B}{B},4,1,R
+Brightstone Ritual,{R},1,1,C
+Prosperity,{X}{U},1,1,U
+Ancient Den,,0,1,C
+"Jeska, Warrior Adept",{2}{R}{R},4,1,R
+"Karona, False God",{1}{W}{U}{B}{R}{G},6,1,R
+Mirari,{5},5,1,R
+"Ramos, Dragon Engine",{6},6,1,M
+Dramatic Reversal,{1}{U},2,1,R
+Anger,{3}{R},4,1,U
+Cephalid Coliseum,,0,1,U
+Duress,{B},1,1,C
+Riptide Laboratory,,0,1,R
+Counterspell,{U}{U},2,1,C
+Wake of Destruction,{3}{R}{R}{R},6,1,R
+Mirror Entity,{2}{W},3,1,S
+Mirror Entity,{2}{W},3,1,S
+Sylvan Yeti,{2}{G}{G},4,1,R
+Mudslide,{2}{R},3,1,R
+Flare of Duplication,{1}{R}{R},3,1,R
+Dragonstorm,{8}{R},9,1,S
+Halls of Mist,,0,1,R
+Limited Resources,{W},1,1,R
+Mortivore,{2}{B}{B},4,1,R
+Mortivore,{2}{B}{B},4,1,R
+Mortivore,{2}{B}{B},4,1,R
+Nostalgic Dreams,{G}{G},2,1,R
+Aphetto Alchemist,{1}{U},2,1,U
+Aphetto Alchemist,{1}{U},2,1,U
+Citanul Flute,{5},5,1,R
+Karn's Bastion,,0,1,R
+Goblin Warchief,{1}{R}{R},3,1,U
+Blood Artist,{1}{B},2,1,U
+Trinket Mage,{2}{U},3,1,S
+Commander Eesha,{2}{W}{W},4,1,R
+Land Grant,{1}{G},2,1,C
+Ancient Den,,0,1,S
+Ancient Den,,0,1,S
+Ancient Den,,0,1,S
+Argothian Wurm,{3}{G},4,1,R
+Chromatic Lantern,{3},3,1,R
+Daze,{1}{U},2,1,C
+Daze,{1}{U},2,1,C
+Daze,{1}{U},2,1,C
+Daze,{1}{U},2,1,C
+Soraya the Falconer,{1}{W}{W},3,1,R
+Bosium Strip,{3},3,1,R
+Flickering Ward,{W},1,1,U
+Ill-Gotten Gains,{2}{B}{B},4,1,R
+Phyrexian Processor,{4},4,1,R
+"Sram, Senior Edificer",{1}{W},2,1,S
+Infernal Genesis,{4}{B}{B},6,1,R
+Blackblade Reforged,{2},2,1,R
+Abrupt Decay,{B}{G},2,1,S
+Drain Power,{U}{U},2,1,R
+Bladewing the Risen,{3}{B}{B}{R}{R},7,1,R
+Gush,{4}{U},5,1,C
+Soul Warden,{W},1,1,C
+Abjure,{U},1,1,C
+Abjure,{U},1,1,C
+"Baral, Chief of Compliance",{1}{U},2,1,S
+Illusionist's Bracers,{2},2,1,R
+Gaea's Touch,{G}{G},2,1,C
+Gaea's Touch,{G}{G},2,1,C
+Harvester of Souls,{4}{B}{B},6,1,S
+High Market,,0,1,R
+Leveler,{5},5,1,S
+Illicit Auction,{3}{R}{R},5,1,R
+Pariah's Shield,{5},5,1,R
+Victimize,{2}{B},3,1,U
+Victimize,{2}{B},3,1,U
+Victimize,{2}{B},3,1,U
+Xantid Swarm,{G},1,1,R
+Mana Severance,{1}{U},2,1,R
+Haunted Crossroads,{2}{B},3,1,U
+Plains,,0,1,C
+Skeletal Scrying,{X}{B},1,1,U
+Last-Ditch Effort,{R},1,1,U
+Soulherder,{1}{W}{U},3,1,U
+The Underworld Cookbook,{1},1,1,U
+Dark Ritual,{B},1,1,C
+Ignoble Hierarch,{G},1,1,R
+Ornithopter of Paradise,{2},2,1,C
+Ornithopter of Paradise,{2},2,1,C
+Ornithopter of Paradise,{2},2,1,C
+Ornithopter of Paradise,{2},2,1,C
+Sol Ring,{1},1,1,U
+Dark Ritual,{B},1,1,C
+Intruder Alarm,{2}{U},3,1,R
+Seahunter,{2}{U}{U},4,1,R
+Carrion Feeder,{B},1,1,C
+Red Elemental Blast,{R},1,1,C
+Blistering Firecat,{1}{R}{R}{R},4,1,R
+Head Games,{3}{B}{B},5,1,R
+Goblin War Strike,{R},1,1,C
+Hydroblast,{U},1,1,C
+Brainstorm,{U},1,1,C
+Brainstorm,{U},1,1,C
+Hammer of Bogardan,{1}{R}{R},3,1,R
+Spellshock,{2}{R},3,1,U
+Dark Depths,,0,1,M
+Dark Depths,,0,1,M
+Faith Healer,{1}{W},2,1,R
+Devoted Caretaker,{W},1,1,R
+Maze's End,,0,1,M
+Cryptolith Rite,{1}{G},2,1,R
+Exhume,{1}{B},2,1,C
+Archmage's Charm,{U}{U}{U},3,1,R
+Cromat,{W}{U}{B}{R}{G},5,1,R
+Cuombajj Witches,{B}{B},2,1,C
+Null Brooch,{4},4,1,R
+Burrowing,{R},1,1,U
+Recycle,{4}{G}{G},6,1,R
+Forest,,0,1,C
+Urza's Mine,,0,1,C
+Zulaport Cutthroat,{1}{B},2,1,S
+Bottomless Pit,{1}{B}{B},3,1,U
+Crystal Vein,,0,1,U
+Dark Ritual,{B},1,1,C
+Dreamborn Muse,{2}{U}{U},4,1,R
+Dreamborn Muse,{2}{U}{U},4,1,R
+Dreamborn Muse,{2}{U}{U},4,1,R
+Mist Dragon,{4}{U}{U},6,1,R
+Blue Elemental Blast,{U},1,1,C
+Blue Elemental Blast,{U},1,1,C
+Blue Elemental Blast,{U},1,1,C
+Island,,0,1,C
+Machine God's Effigy,{4},4,1,R
+Hullbreaker Horror,{5}{U}{U},7,1,R
+Caltrops,{3},3,1,U
+Crystal Quarry,,0,1,R
+Manabarbs,{3}{R},4,1,R
+Rhystic Tutor,{2}{B},3,1,R
+Rhystic Tutor,{2}{B},3,1,R
+Goblin King,{1}{R}{R},3,1,R
+Lethal Vapors,{2}{B}{B},4,1,R
+Thran Dynamo,{4},4,1,U
+Ascendant Evincar,{4}{B}{B},6,1,R
+Goblin Bombardment,{1}{R},2,1,U
+Elvish Piper,{3}{G},4,1,R
+Exhume,{1}{B},2,1,C
+Exhume,{1}{B},2,1,C
+Exhume,{1}{B},2,1,C
+Fishliver Oil,{1}{U},2,1,C
+Vile Entomber,{2}{B}{B},4,1,U
+Vile Entomber,{2}{B}{B},4,1,U
+Vile Entomber,{2}{B}{B},4,1,U
+Bind,{1}{G},2,1,R
+Merieke Ri Berit,{W}{U}{B},3,1,R
+Windfall,{2}{U},3,1,U
+Read the Bones,{2}{B},3,1,S
+Read the Bones,{2}{B},3,1,S
+Caltrops,{3},3,1,U
+"Barrin, Master Wizard",{1}{U}{U},3,1,R
+Duress,{B},1,1,R
+Caller of the Claw,{2}{G},3,1,R
+Leviathan,{5}{U}{U}{U}{U},9,1,U
+Reconstruction,{U},1,1,C
+Soul Warden,{W},1,1,C
+Soul Warden,{W},1,1,C
+Energy Tap,{U},1,1,C
+Liquimetal Torque,{2},2,1,U
+Helm of Possession,{4},4,1,R
+Grip of Chaos,{4}{R}{R},6,1,R
+Doomsday,{B}{B}{B},3,1,R
+Flicker,{1}{W},2,1,R
+Lithoform Engine,{4},4,1,M
+Pox,{B}{B}{B},3,1,R
+Metamorphosis,{G},1,1,C
+Animate Dead,{1}{B},2,1,U
+Flusterstorm,{U},1,1,R
+Master Transmuter,{3}{U},4,1,R
+Staff of Domination,{3},3,1,M
+Graveborn Muse,{2}{B}{B},4,1,R
+Lord of the Pit,{4}{B}{B}{B},7,1,R
+Spirit Link,{W},1,1,U
+Kill Switch,{3},3,1,R
+Coffin Queen,{2}{B},3,1,R
+Crop Rotation,{G},1,1,C
+Crop Rotation,{G},1,1,C
+Crop Rotation,{G},1,1,C
+Mental Note,{U},1,1,C
+Mental Note,{U},1,1,C
+Mental Note,{U},1,1,C
+Mental Note,{U},1,1,C
+Mental Note,{U},1,1,C
+Sigil of Sleep,{U},1,1,C
+"Ertai, Wizard Adept",{2}{U},3,1,R
+Voltaic Key,{1},1,1,U
+Standstill,{1}{U},2,1,U
+Urza's Power Plant,,0,1,C
+Retribution of the Meek,{2}{W},3,1,R
+Coalition Victory,{3}{W}{U}{B}{R}{G},8,1,R
+Do or Die,{1}{B},2,1,R
+Do or Die,{1}{B},2,1,R
+"Kangee, Aerie Keeper",{2}{W}{U},4,1,R
+Goblin Engineer,{1}{R},2,1,S
+Mother of Runes,{W},1,1,U
+Gravestorm,{B}{B}{B},3,1,R
+Mystic Sanctuary,,0,1,S
+Mobilize,{G},1,1,C
+Biorhythm,{6}{G}{G},8,1,R
+Spark Double,{3}{U},4,1,R
+Undermine,{U}{U}{B},3,1,R
+Bedlam,{2}{R}{R},4,1,R
+Dauthi Voidwalker,{B}{B},2,1,R
+Fellwar Stone,{2},2,1,U
+Fellwar Stone,{2},2,1,U
+King's Assassin,{1}{B}{B},3,1,R
+Helm of the Host,{4},4,1,M
+Chain of Vapor,{U},1,1,U
+Vile Consumption,{1}{U}{B},3,1,R
+Pemmin's Aura,{1}{U}{U},3,1,U
+Puppet's Verdict,{1}{R}{R},3,1,R
+Windswept Heath,,0,1,R
+Caves of Koilos,,0,1,R
+Manifold Key,{1},1,1,S
+"Kiki-Jiki, Mirror Breaker",{2}{R}{R}{R},5,1,S
+Steal Enchantment,{U}{U},2,1,U
+Dandan,{U}{U},2,1,C
+Dandan,{U}{U},2,1,C
+Dandan,{U}{U},2,1,C
+Goblin Piledriver,{1}{R},2,1,R
+Undead Warchief,{2}{B}{B},4,1,U
+Final Fortune,{R}{R},2,1,R
+Blue Elemental Blast,{U},1,1,C
+Attunement,{2}{U},3,1,R
+Seedborn Muse,{3}{G}{G},5,1,R
+Worldly Tutor,{G},1,1,R
+Bloodstained Mire,,0,1,R
+Wooded Foothills,,0,1,R
+Oath of Druids,{1}{G},2,1,R
+"Ashling, Flame Dancer",{2}{R}{R},4,1,M
+Polluted Delta,,0,1,R
+Verdant Catacombs,,0,1,R
+Lightning Bolt,{R},1,1,C
+Mishra's Factory,,0,1,U
+Marsh Flats,,0,1,R
+Arid Mesa,,0,1,R
+Scalding Tarn,,0,1,R
+Mishra's Factory,,0,1,U
+Hypnotic Specter,{1}{B}{B},3,1,U
+Misty Rainforest,,0,1,R
+Sol Ring,{1},1,1,U
+Labratory Maniac,{2}{U},3,1,U
+Snapping drake,{3}{U},4,1,
+Cryptbreaker,{B},1,1,R
+Mishra’s foundry,,,,
+Hivis of the Scale,{3}{R}{R},5,,
+Puppet Strings,{3},3,,
+Miscalculation,{1}{U},2,,
+True-Name Nemesis,1{U}{U},3,,
+Terrain Generator,,,,
+Insight,2{U},3,,
